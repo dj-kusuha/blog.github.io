@@ -2,6 +2,7 @@ baseURL: "http://blog.kusuha.com/"
 languageCode: "ja"
 title: "くすはさんのブログ"
 contentDir: "posts"
+publishDir: "docs"
 theme: "hugo-clarity"
 params:
   author: "くすは"
