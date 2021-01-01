@@ -122,4 +122,4 @@ dateFormat = "2006/01/02" # Default to "Jan 2, 2006".
 
 # The year when ths website was created, this value is used in the copyright
 # notice of the footer.
-since = 20211
+since = 2021
