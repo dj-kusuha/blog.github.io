@@ -1,5 +1,6 @@
 baseURL: "http://blog.kusuha.com/"
-languageCode: "ja"
+defaultContentLanguage: "ja"
+languageCode: "ja-jp"
 title: "くすはさんのブログ"
 contentDir: "posts"
 publishDir: "docs"
