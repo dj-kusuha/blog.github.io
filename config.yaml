@@ -6,5 +6,6 @@ theme: "hugo-clarity"
 params:
   author: "くすは"
   twitter: "@dj_kusuha"
-  introDescription: "Technologist, perpetual student, teacher, continual incremental improvement."
+#  introDescription: "エンジニアをやっています。趣味はバックギャモンとかお酒とか。"
+  dateFormat: "2006/01/02"
   
