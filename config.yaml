@@ -1,10 +1,11 @@
-baseURL: "http://blog.kusuha.com/"
+baseURL: "https://blog.kusuha.com/"
 defaultContentLanguage: "ja"
 languageCode: "ja-jp"
 title: "くすはさんのブログ"
 contentDir: "posts"
 publishDir: "docs"
-theme: "hugo-clarity"
+theme: 
+- "hugo-clarity"
 canonifyurls: true
 params:
   author: "くすは"
