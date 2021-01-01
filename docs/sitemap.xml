@@ -13,12 +13,18 @@
   </url>
   
   <url>
+    <loc>https://blog.kusuha.com/categories/</loc>
+    <lastmod>2021-01-01T21:41:55+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.kusuha.com/articles/2020/01/hello-world/</loc>
     <lastmod>2021-01-01T21:41:55+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.kusuha.com/categories/</loc>
+    <loc>https://blog.kusuha.com/categories/%E9%9B%91%E8%A8%98/</loc>
+    <lastmod>2021-01-01T21:41:55+09:00</lastmod>
   </url>
   
   <url>
