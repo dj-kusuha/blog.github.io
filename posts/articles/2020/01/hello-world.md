@@ -1,8 +1,10 @@
 ---
-title: "Hello World"
+title: "Hello World!"
 date: 2021-01-01T21:41:55+09:00
-tags: ["hello", "world"]
 category: ["雑記"]
 ---
-Hello World!
+ブログを作りました。  
+主に趣味の話をつらつらと書いていければと思います。
 
+2021年はいろいろアウトプット出来るように頑張ってみます💪  
+今年もよろしくお願いします🙌
