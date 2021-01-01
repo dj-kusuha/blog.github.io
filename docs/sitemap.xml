@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.kusuha.com/</loc>
+    <loc>https://blog.kusuha.com/</loc>
     <lastmod>2021-01-01T21:42:07+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.kusuha.com/articles/</loc>
+    <loc>https://blog.kusuha.com/articles/</loc>
     <lastmod>2021-01-01T21:41:55+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.kusuha.com/articles/2020/01/hello-world/</loc>
+    <loc>https://blog.kusuha.com/articles/2020/01/hello-world/</loc>
     <lastmod>2021-01-01T21:41:55+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.kusuha.com/categories/</loc>
+    <loc>https://blog.kusuha.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://blog.kusuha.com/tags/</loc>
+    <loc>https://blog.kusuha.com/tags/</loc>
   </url>
   
 </urlset>
