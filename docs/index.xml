@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>くすはさんのブログ</title>
+    <link>http://blog.kusuha.com/</link>
+    <description>Recent content on くすはさんのブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 01 Jan 2021 21:42:07 +0900</lastBuildDate><atom:link href="http://blog.kusuha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>http://blog.kusuha.com/articles/2020/01/hello-world/</link>
+      <pubDate>Fri, 01 Jan 2021 21:41:55 +0900</pubDate>
+      
+      <guid>http://blog.kusuha.com/articles/2020/01/hello-world/</guid>
+      <description>
+        
+          &lt;p&gt;ブログを作りました。&lt;br&gt;
+主に趣味の話をつらつらと書いていければと思います。&lt;/p&gt;
+&lt;p&gt;2021年はいろいろアウトプット出来るように頑張ってみます💪&lt;br&gt;
+今年もよろしくお願いします🙌&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
