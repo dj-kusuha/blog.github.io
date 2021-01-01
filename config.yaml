@@ -1,0 +1,10 @@
+baseURL: "http://blog.kusuha.com/"
+languageCode: "ja"
+title: "くすはさんのブログ"
+contentDir: "posts"
+theme: "hugo-clarity"
+params:
+  author: "くすは"
+  twitter: "@dj_kusuha"
+  introDescription: "Technologist, perpetual student, teacher, continual incremental improvement."
+  
