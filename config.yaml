@@ -4,6 +4,7 @@ title: "くすはさんのブログ"
 contentDir: "posts"
 publishDir: "docs"
 theme: "hugo-clarity"
+canonifyurls: true
 params:
   author: "くすは"
   twitter: "@dj_kusuha"
