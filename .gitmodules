@@ -1,3 +1,6 @@
 [submodule "themes/hugo-clarity"]
 	path = themes/hugo-clarity
 	url = https://github.com/vc-kusuha/hugo-clarity.git
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
