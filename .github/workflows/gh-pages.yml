@@ -1,6 +1,9 @@
 name: Hugo
 
-on: push
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   gh-pages:
