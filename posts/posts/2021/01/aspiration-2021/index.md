@@ -2,6 +2,8 @@
 title: "2021年の抱負"
 date: 2021-01-03T23:29:44+09:00
 categories: ["雑記"]
+aliases:
+- /articles/2021/01/aspiration-2021/
 ---
 
 今年の抱負です！

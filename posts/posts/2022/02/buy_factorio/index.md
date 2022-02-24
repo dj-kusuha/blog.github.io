@@ -3,6 +3,8 @@ title: "Factorioを買いました"
 date: 2022-02-24T01:00:05+09:00
 categories: ["ゲーム"]
 tags: ["Factorio"]
+aliases:
+- /articles/2022/02/buy_factorio/
 ---
 
 ![既に100時間以上遊んでしまった図](1.png)
