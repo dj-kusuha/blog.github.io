@@ -2,6 +2,8 @@
 title: "Hello World!"
 date: 2021-01-01T21:41:55+09:00
 categories: ["雑記"]
+aliases:
+- /articles/2021/01/hello-world/
 ---
 ブログを作りました。  
 主に趣味の話をつらつらと書いていければと思います。

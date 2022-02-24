@@ -3,6 +3,8 @@ title: "スタディサプリで英語学習を始めて5ヶ月ほど経った"
 date: 2021-06-25T20:03:23+09:00
 categories: ["雑記"]
 tags: ["English"]
+aliases:
+- /articles/2021/06/learning_english/
 ---
 
 気づいたら前回の記事から半年ほど経っててワロタ  

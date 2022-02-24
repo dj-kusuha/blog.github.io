@@ -90,6 +90,6 @@ menu:
     url: ""
     weight: 10
 
-  - name: "Articles"
-    url: "articles/"
+  - name: "Posts"
+    url: "posts/"
     weight: 20
