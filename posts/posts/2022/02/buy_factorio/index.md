@@ -3,6 +3,7 @@ title: "Factorioを買いました"
 date: 2022-02-24T01:00:05+09:00
 categories: ["ゲーム"]
 tags: ["Factorio"]
+description: "買いました、というかもう3ヶ月くらい経ったのでここまでにやったことなど。"
 aliases:
 - /articles/2022/02/buy_factorio/
 ---

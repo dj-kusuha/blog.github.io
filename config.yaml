@@ -54,8 +54,8 @@ params:
   dateformNumTime: "2006/01/02 15:04"
 
   # Metadata mostly used in document's head
-  # description = ""
-  # images = [""]
+  description: "くすはさんのブログです。日常だったり趣味だったり技術的なことだったりを書いていくよ。"
+  images: ["thumbnail.png"]
   themeColor: "#494f5c"
 
   homeSubtitle: ""
