@@ -1,8 +1,8 @@
 ---
 title: "Factorioを買いました"
 date: 2022-02-24T01:00:05+09:00
-categories: []
-tags: ["ゲーム"]
+categories: ["ゲーム"]
+tags: ["Factorio"]
 ---
 
 ![既に100時間以上遊んでしまった図](1.png)
