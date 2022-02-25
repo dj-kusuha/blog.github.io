@@ -8,7 +8,7 @@ aliases:
 - /articles/2022/02/buy_factorio/
 ---
 
-![既に100時間以上遊んでしまった図](1.png)
+![既に100時間以上遊んでしまった図](feature.png)
 
 <!--more-->
 
