@@ -10,5 +10,5 @@ fi
 
 printf "\033[0;32mCreate new post...\033[0m\n"
 
-file=posts/$(date '+%Y')/$(date '+%m')/$1/index.md
+file=posts/posts/$(date '+%Y')/$(date '+%m')/$1/index.md
 hugo new $file
