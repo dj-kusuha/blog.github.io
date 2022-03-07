@@ -2,7 +2,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl: 'https://blog.kusuha.com/' # Include trailing slash
-title: くすはさんのブログ
+title: くすブロ
 author: くすは
 languageCode: ja-jp
 contentDir: posts
@@ -23,7 +23,7 @@ hasCJKLanguage: true  # If Chinese/Japanese/Korean is your main content language
 taxonomies:
   category: categories
   tag: tags
-  series: series
+  # series: series
 
 markup:
   goldmark:
@@ -58,7 +58,7 @@ params:
   images: ["thumbnail.png"]
   themeColor: "#494f5c"
 
-  homeSubtitle: ""
+  homeSubtitle: くすはさんのブログだよ
   footerCopyright: 'Copyright © くすは; all rights reserved.'
   # bgImg = ""  # Homepage background-image URL
 
