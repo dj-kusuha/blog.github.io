@@ -1,8 +1,6 @@
 ---
 title: Google Cloud Run + Rust で Slack の bot を作ってみた
 date: 2022-04-22T23:00:00+09:00
-images:
-  - soreike.png
 categories:
   - 技術
 tags:
