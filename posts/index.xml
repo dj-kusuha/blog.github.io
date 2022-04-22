@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Fri, 22 Apr 2022 23:00:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Google Cloud Run + Rust で Slack の bot を作ってみた</title><link>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</link><pubDate>Fri, 22 Apr 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</guid><description>最近、趣味で Rust を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。 できたもの 使った物 Rust Google Cloud Platform Cloud Run Artifact Registry Cloud Build Cloud Logging Cloud Storage Secret Manager 上記</description><content type="html"><![CDATA[<p>最近、趣味で <a href="https://www.rust-lang.org/ja">Rust</a> を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。</p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Fri, 22 Apr 2022 23:00:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Google Cloud Run + Rust で Slack の bot を作ってみた</title><link>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</link><pubDate>Fri, 22 Apr 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</guid><description>最近、趣味で Rust を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。 できたもの 使った物 Rust Google Cloud Platform Cloud Run Artifact Registry Cloud Build Cloud Logging Cloud Storage 上記4つ</description><content type="html"><![CDATA[<p>最近、趣味で <a href="https://www.rust-lang.org/ja">Rust</a> を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。</p>
 <!-- more -->
 <h1 id="できたもの">できたもの</h1>
 <p><a href="https://github.com/dj-kusuha/soreike"><img src="feature.png" /></a></p>
@@ -12,9 +12,12 @@
 <li>Artifact Registry</li>
 <li>Cloud Build</li>
 <li>Cloud Logging</li>
-<li>Cloud Storage</li>
+<li>Cloud Storage
+<ul>
+<li>上記4つは Google Cloud CLI で <code>gcloud run deploy</code> すると使われるものたち</li>
+</ul>
+</li>
 <li>Secret Manager</li>
-<li>上記は Google Cloud CLI で <code>gcloud run deploy</code> すると使われるものたち</li>
 </ul>
 </li>
 </ul>
