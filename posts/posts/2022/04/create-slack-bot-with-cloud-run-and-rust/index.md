@@ -28,8 +28,8 @@ tags:
     - Cloud Build
     - Cloud Logging
     - Cloud Storage
+        - 上記4つは Google Cloud CLI で `gcloud run deploy` すると使われるものたち
     - Secret Manager
-    - 上記は Google Cloud CLI で `gcloud run deploy` すると使われるものたち
 
 # なぜこれを作ったのか
 
