@@ -73,7 +73,7 @@
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="p">}</span><span class="w">
 </span></span></span></code></pre></div><p>なお、環境変数への定義は、デプロイ時には Secret Manager を利用しつつ、開発中は <code>.env</code> ファイルを作ってそこに環境変数を定義し、 <a href="https://crates.io/crates/dotenv">rust-dotenv</a> crate を使って読み込んでいます。</p>
 <h3 id="23-メンションが飛んできたらランダム文字列を生成して-slack-に投稿">2.3 メンションが飛んできたらランダム文字列を生成して Slack に投稿</h3>
-<p>Slack Event API の <a href="https://api.slack.com/events/app_mention">app_mention</a> を利用し、メンションを受けたら</p>
+<p>Slack Event API の <a href="https://api.slack.com/events/app_mention">app_mention</a> を利用し、メンションを受けたらそのチャンネルにランダム生成された文字列を投稿します。</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Rust" data-lang="Rust"><span class="line"><span class="cl"><span class="k">fn</span> <span class="nf">post_anpanman</span><span class="p">(</span><span class="n">channel</span>: <span class="nb">String</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="c1">// 投稿文字列を決定する
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="w">    </span><span class="kd">let</span><span class="w"> </span><span class="n">body</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">create_body</span><span class="p">();</span><span class="w">
