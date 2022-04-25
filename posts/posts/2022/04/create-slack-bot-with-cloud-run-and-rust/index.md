@@ -103,7 +103,7 @@ async fn slack(Json(payload): Json<SlackRequest>) -> impl IntoResponse {
 
 ### 2.3 メンションが飛んできたらランダム文字列を生成して Slack に投稿
 
-Slack Event API の [app_mention](https://api.slack.com/events/app_mention) を利用し、メンションを受けたら
+Slack Event API の [app_mention](https://api.slack.com/events/app_mention) を利用し、メンションを受けたらそのチャンネルにランダム生成された文字列を投稿します。
 
 ```Rust
 fn post_anpanman(channel: String) {
