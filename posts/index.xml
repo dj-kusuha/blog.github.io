@@ -1,4 +1,48 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Fri, 22 Apr 2022 23:00:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Google Cloud Run + Rust で Slack の bot を作ってみた</title><link>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</link><pubDate>Fri, 22 Apr 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</guid><description>最近、趣味で Rust を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。 できたもの 使った物 Rust Google Cloud Platform Cloud Run Artifact Registry Cloud Build Cloud Logging Cloud Storage 上記4つ</description><content type="html"><![CDATA[<p>最近、趣味で <a href="https://www.rust-lang.org/ja">Rust</a> を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。</p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Thu, 14 Jul 2022 22:30:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2級FP技能検定に合格しました</title><link>https://blog.kusuha.com/posts/2022/07/pass_fp2/</link><pubDate>Thu, 14 Jul 2022 22:30:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/07/pass_fp2/</guid><description>3月に 3級FPに合格した記事 を書きましたが、その後2級も受験し、無事に合格出来ました💪 学科は 50点/60点 (36点以上で合格)、実技は 95点</description><content type="html"><![CDATA[<p><img src="feature.png" alt="いえーい"></p>
+<p>3月に <a href="https://blog.kusuha.com/posts/2022/03/pass_fp3/">3級FPに合格した記事</a> を書きましたが、その後2級も受験し、無事に合格出来ました💪</p>
+<p>学科は 50点/60点 (36点以上で合格)、実技は 95点/100点 (60点以上で合格) ということで、 <strong>完全合格</strong><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> です＼( 'ω')／</p>
+<p>これで <strong>2級ファイナンシャル・プランニング技能士</strong> を名乗ることができますｗ</p>
+<p>今働いている業界だとなんの役にも立ちませんが😇</p>
+<p>最初から2級までは取るつもりだったので、ひとまず目標達成💪('ω'💪)</p>
+<p>次どうするかはちょっと考え中…
+実務経験が無いので1級はそのままでは受けられない<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>し、 AFP → CFP というコースも結構敷居が高いし</p>
+<p>そもそも前述の通り <strong>今働いている業界だとなんの役にも立たない</strong> ので、モチベが続かない…</p>
+<p>なので一旦は別の事をやろうかな～と思ってますw</p>
+<p>ちょうど10月に <a href="https://www.jitec.ipa.go.jp/1_11seido/pm.html">IPAのPM試験</a> があり、業務にも割と直結してるので、これを受ける予定。
+これも結果が出たらブログで報告します📝</p>
+<h1 id="勉強方法時間について">勉強方法・時間について</h1>
+<p>前回と全く同じ戦略をとりましたｗ</p>
+<ul>
+<li>参考書を1冊買って一通り読む
+<ul>
+<li><a href="https://book.mynavi.jp/ec/products/detail/id=123668">イメージで攻略 わかる！受かる！！ FP2級 AFP テキスト＆問題集 2021-2022年版（マイナビ出版）</a>
+<ul>
+<li>今は <a href="https://book.mynavi.jp/ec/products/detail/id=130331">2022-2023年版</a> が出ています</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://fp2-siken.com/">FP2級ドットコム</a>さんで過去問を解く</li>
+</ul>
+<p>これも3級の時と同じなんですが、FP2級ドットコムさんの過去問が優秀で、ちゃんと解説までついているので、参考書無くても合格ラインには達せそうな気がします。
+困ったらググったら大体出てきますしね。良い時代ですわ～～～</p>
+<p>勉強量は、正直3級の時より減ってたかも…まぁ3級と範囲は同じなので、3級の時にしっかり基礎が出来ていた分、2級の時にあんまり勉強しなくても良かったのかも。</p>
+<p>FP2級ドットコムさん、今回も大変お世話になりました🙏</p>
+<p>前回同様、学習履歴を貼っておきます。</p>
+<p><img src="2022-07-14-22-22-29.png" alt="FP2級ドットコムさんでの成績レポート(学科)"></p>
+<p><img src="2022-07-14-22-22-44.png" alt="FP2級ドットコムさんでの成績レポート(実技)"></p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>FPの合格発表サイトで、学科・実技共に合格点になっていると「完全合格」と表示され、これが面白くてTwitterでバズるなどしてましたｗ&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>受験資格として、実務経験があって必要なコースを修了するか、あるいはCFP認定される必要がある&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content></item><item><title>Google Cloud Run + Rust で Slack の bot を作ってみた</title><link>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</link><pubDate>Fri, 22 Apr 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</guid><description>最近、趣味で Rust を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。 できたもの 使った物 Rust Google Cloud Platform Cloud Run Artifact Registry Cloud Build Cloud Logging Cloud Storage 上記4つ</description><content type="html"><![CDATA[<p>最近、趣味で <a href="https://www.rust-lang.org/ja">Rust</a> を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。</p>
 <!-- more -->
 <h1 id="できたもの">できたもの</h1>
 <p><a href="https://github.com/dj-kusuha/soreike"><img src="feature.png" /></a></p>
@@ -229,14 +273,14 @@
 <p><img src="p5.jpg" alt="フォトギャラリー(5)"></p>
 <p><img src="p6.jpg" alt="フォトギャラリー(6)"></p>
 <p><img src="p7.jpg" alt="フォトギャラリー(7)"></p>
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
+<li id="fn:1">
 <p>Webサイトだと税別表記になっている&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>]]></content></item><item><title>3級FP技能検定に合格しました</title><link>https://blog.kusuha.com/posts/2022/03/pass_fp3/</link><pubDate>Mon, 07 Mar 2022 14:25:23 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/03/pass_fp3/</guid><description>&lt;p>&lt;img src="feature.png" alt="いえーい">&lt;/p>
+</div>]]></content></item><item><title>3級FP技能検定に合格しました</title><link>https://blog.kusuha.com/posts/2022/03/pass_fp3/</link><pubDate>Mon, 07 Mar 2022 14:25:23 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/03/pass_fp3/</guid><description>&lt;p>&lt;img src="feature.png" alt="いえーい">&lt;/p>
 &lt;p>1月に受けていた3級FP技能検定、先日合格発表があって無事に合格してました！いえーい＼( 'ω')／&lt;/p></description><content type="html"><![CDATA[<p><img src="feature.png" alt="いえーい"></p>
 <p>1月に受けていた3級FP技能検定、先日合格発表があって無事に合格してました！いえーい＼( 'ω')／</p>
 <p>なんでいきなりFP？って感じなんですが、ここ最近は将来のマネープランを考えたりみたいなことが多かったので、身につけた知識で受験出来る資格とかないかな？と思って調べたらFPを見つけて、オッこれだなと思って受けてみた、という流れでした。</p>
@@ -258,16 +302,16 @@
 <p><img src="2022-03-07-14-58-50.png" alt="FP3級ドットコムさんでの成績レポート(学科)"></p>
 <p><img src="2022-03-07-15-03-45.png" alt="FP3級ドットコムさんでの成績レポート(実技)"></p>
 <p>というわけで次は5月にFP2級をがんばるぞい</p>
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
+<li id="fn:1">
 <p>ヨドバシカメラ、電子書籍は20%還元してたりするので、こういった参考書を買うのによく使ってますｗ
 ヨドバシのクレジットカード持ってると物理本も10％還元になったりするので、ありがたし。
 まぁヨドバシはポイントいつ使う？という問題が常にあるんですが😇&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>]]></content></item><item><title>Factorioを買いました</title><link>https://blog.kusuha.com/posts/2022/02/buy_factorio/</link><pubDate>Thu, 24 Feb 2022 01:00:05 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/02/buy_factorio/</guid><description>&lt;p>&lt;img src="feature.png" alt="既に100時間以上遊んでしまった図">&lt;/p></description><content type="html"><![CDATA[<p><img src="feature.png" alt="既に100時間以上遊んでしまった図"></p>
+</div>]]></content></item><item><title>Factorioを買いました</title><link>https://blog.kusuha.com/posts/2022/02/buy_factorio/</link><pubDate>Thu, 24 Feb 2022 01:00:05 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/02/buy_factorio/</guid><description>&lt;p>&lt;img src="feature.png" alt="既に100時間以上遊んでしまった図">&lt;/p></description><content type="html"><![CDATA[<p><img src="feature.png" alt="既に100時間以上遊んでしまった図"></p>
 <p>買いました、と書いてますが買ったのは12月上旬なのでもう3ヶ月くらい前ｗ<br>
 既に買ってから100時間以上遊んでしまっている😇</p>
 <p>ここまでの経緯↓</p>
@@ -364,14 +408,14 @@
 また7月のTOEICも無事に受けれる事になったので<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>、モチベが復活しつつあるので頑張っていきます💪
 ここまでの学習時間は170時間ほど…試験までに200時間いくといいな～</p>
 <p>次は730点目指してがんばるぞい</p>
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
+<li id="fn:1">
 <p>今はコロナウィルスの関係で受験が抽選になっています&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>]]></content></item><item><title>全自動エスプレッソマシンを買って1ヶ月経った</title><link>https://blog.kusuha.com/posts/2021/01/espresso_machine/</link><pubDate>Wed, 06 Jan 2021 09:21:29 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/01/espresso_machine/</guid><description>&lt;p>お仕事が基本的にリモートワークになったので、自宅でのコーヒー消費量が増えていました。&lt;br>
+</div>]]></content></item><item><title>全自動エスプレッソマシンを買って1ヶ月経った</title><link>https://blog.kusuha.com/posts/2021/01/espresso_machine/</link><pubDate>Wed, 06 Jan 2021 09:21:29 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/01/espresso_machine/</guid><description>&lt;p>お仕事が基本的にリモートワークになったので、自宅でのコーヒー消費量が増えていました。&lt;br>
 で、そのうち豆から挽いて淹れれるコーヒーメーカーが欲しいな〜と思ってたんですが、 去年のAmazonのサイバーマンデーセールの時にセールをしていたので、 デロンギの全自動コーヒーメーカー「マグニフィカS」を奮発して買ってみました！&lt;/p></description><content type="html"><![CDATA[<p>お仕事が基本的にリモートワークになったので、自宅でのコーヒー消費量が増えていました。<br>
 で、そのうち豆から挽いて淹れれるコーヒーメーカーが欲しいな〜と思ってたんですが、 去年のAmazonのサイバーマンデーセールの時にセールをしていたので、 デロンギの全自動コーヒーメーカー「マグニフィカS」を奮発して買ってみました！</p>
 <p>Amazonリンク: <a href="https://www.amazon.co.jp/dp/B088HJCVDX">【エントリーモデル】デロンギ(DeLonghi) 全自動コーヒーメーカー マグニフィカS ミルク泡立て:手動 ブラック ECAM22112B</a></p>
