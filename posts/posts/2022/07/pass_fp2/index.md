@@ -8,8 +8,7 @@ tags:
   - FP
 ---
 
-![いえーい](feature.png)
-
+<blockquote class="twitter-tweet" data-lang="ja" data-theme="light"><p lang="zxx" dir="ltr"><a href="https://t.co/JRHrUFfQ2q">pic.twitter.com/JRHrUFfQ2q</a></p>&mdash; くすは㌠ (@dj_kusuha) <a href="https://twitter.com/dj_kusuha/status/1543847857090101251?ref_src=twsrc%5Etfw">2022年7月4日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 3月に [3級FPに合格した記事]({{< ref "/posts/2022/03/pass_fp3/index.md" >}}) を書きましたが、その後2級も受験し、無事に合格出来ました💪
 
