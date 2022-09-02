@@ -1,4 +1,111 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Thu, 14 Jul 2022 22:30:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2級FP技能検定に合格しました</title><link>https://blog.kusuha.com/posts/2022/07/pass_fp2/</link><pubDate>Thu, 14 Jul 2022 22:30:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/07/pass_fp2/</guid><description>pic.twitter.com/JRHrUFfQ2q &amp;mdash; くすは㌠ (@dj_kusuha) 2022年7月4日 3月に 3級FPに合格した記事 を書きましたが、その後2級も受験し、無事に合格出来ました💪 学科は 50点/60点 (</description><content type="html"><![CDATA[<blockquote class="twitter-tweet" data-lang="ja" data-theme="light"><p lang="zxx" dir="ltr"><a href="https://t.co/JRHrUFfQ2q">pic.twitter.com/JRHrUFfQ2q</a></p>&mdash; くすは㌠ (@dj_kusuha) <a href="https://twitter.com/dj_kusuha/status/1543847857090101251?ref_src=twsrc%5Etfw">2022年7月4日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Sat, 03 Sep 2022 01:25:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>beatmaniaIIDX INFINITAS のプレー成績を Reflux で可視化する</title><link>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</link><pubDate>Sat, 03 Sep 2022 01:25:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</guid><description>最近 beatmaniaIIDX INFINITAS を再開しました！ やっぱり楽しいですね💪('ω'💪) で、プレーしているとクリアやスコアの状況を管理したくなるわけですが、手動でやるのは</description><content type="html"><![CDATA[<p><a href="https://github.com/olji/Reflux"><img src="feature.svg" alt="olji/Reflux"></a></p>
+<p>最近 <a href="http://p.eagate.573.jp/game/eac2dx/infinitas/p/common/top.html">beatmaniaIIDX INFINITAS</a> を再開しました！
+やっぱり楽しいですね💪('ω'💪)</p>
+<p>で、プレーしているとクリアやスコアの状況を管理したくなるわけですが、手動でやるのはめんどくさい！</p>
+<p>というわけでどうしたものかと思案していたんですが、 <a href="https://github.com/olji/Reflux">Reflux</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> というツールを教えてもらったので、導入してみました。</p>
+<p>可視化した結果は以下の通り。</p>
+<p><a href="2022-09-03-00-17-39.png"><img src="2022-09-03-00-12-50.png" alt="Reflux + Okapi's Unlock Tracker Spreadsheet で可視化した結果"></a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1xrS5Evao-OTzqpbwOSKlvCYdTIX61IDuKj6FaIDdsy0/edit#gid=1205234399">実際の Spreadsheet はこちら。</a></p>
+<p>難易度やSP/DPでフィルタかけたり、ソート順を任意に指定できるので、自分の好きな見た目にできます！
+これがあると現状把握や次の目標設定とかが凄い便利になったので、お勧めです。
+<span style="color:gray">公式でこういう機能があったらいいんだけどな(小声)</span></p>
+<p>以下、Reflux の導入手順をまとめておきます。</p>
+<p>当然ですが、 <strong>以下の手順実行は自己責任でお願いします</strong> 🙏</p>
+<hr>
+<h1 id="導入手順">導入手順</h1>
+<h2 id="0-事前準備">0. 事前準備</h2>
+<ul>
+<li>Google アカウントを用意
+<ul>
+<li>可視化時に Google Spreadsheet を利用するために必要</li>
+</ul>
+</li>
+<li>パソコン版 Google ドライブをインストール
+<ul>
+<li><a href="https://www.google.com/intl/ja_jp/drive/download/">https://www.google.com/intl/ja_jp/drive/download/</a> から</li>
+<li>Reflux で取得したデータを自動的に同期するために必要</li>
+<li>必須ではないですが、都度手動で更新するのは面倒なので、インストールするのをお勧め</li>
+</ul>
+</li>
+<li>.NET Core 3.1 の .NET デスクトップランタイムをインストール
+<ul>
+<li><a href="https://dotnet.microsoft.com/ja-jp/download/dotnet/3.1">https://dotnet.microsoft.com/ja-jp/download/dotnet/3.1</a> から</li>
+<li>Reflux 1.11.1 から必要になったようです</li>
+<li>INFINITASを遊ぶようなPCだと <code>x64</code> をダウンロードしておけばほぼほぼ問題無いはず</li>
+</ul>
+</li>
+<li><code>.7z</code> ファイルを解凍できる解凍ソフト
+<ul>
+<li><a href="https://www.cube-soft.jp/cubeice/">CubeICE</a> など</li>
+</ul>
+</li>
+</ul>
+<h2 id="1-reflux-をダウンロード">1. Reflux をダウンロード</h2>
+<p>Reflux は GitHub 上で配布されています。 <a href="https://github.com/olji/Reflux/releases">Releases</a> から最新バージョン(この記事執筆辞典では <code>1.11.1</code> )をダウンロードします。
+以下の画像では <code>Reflux.1.11.1.7z</code> と書かれたリンクをクリックするとダウンロードできます。</p>
+<p><img src="2022-09-03-00-29-26.png" alt="GitHub Releases のスクリーンショット"></p>
+<h2 id="2-解凍して実行">2. 解凍して実行</h2>
+<p>解凍すると <code>Reflux.exe</code> というファイルがあるため、実行します。</p>
+<p><img src="2022-09-03-00-33-08.png" alt="解凍した状態"></p>
+<p>正常に起動できたら、以下のようなコンソール画面が表示されます。</p>
+<p><img src="2022-09-03-00-34-40.png" alt="Reflux起動画面"></p>
+<p><strong>正常に起動しない場合、 .NET Core 3.1 のデスクトップランタイムが正常にインストールされていないかもしれません。</strong></p>
+<p>コンソール画面が出たら、そのまま置いておきます。</p>
+<h2 id="3-infinitas-を起動">3. INFINITAS を起動</h2>
+<p>上記のコンソール画面を出した状態で、 INFINITAS を起動します。
+Reflux が INFINITAS の起動を正常に検知できたら、コンソール画面に以下のようなログが表示されます。</p>
+<p><img src="2022-09-03-00-37-47.png" alt="INFINITASの起動を検知できた時のコンソール画面"></p>
+<p>その後、普通に INFINITAS をプレーし、終了後に Reflux のフォルダを確認していると、初期状態では無かったフォルダやファイルが存在しているはずです。</p>
+<p><img src="2022-09-03-00-39-44.png" alt="INFINITASの起動検知後のRefluxフォルダの中身"></p>
+<p>これで、 Reflux が各種プレー成績のデータを取得できました。</p>
+<h2 id="4-okapis-unlock-tracker-spreadsheet-をコピー">4. Okapi's Unlock Tracker Spreadsheet をコピー</h2>
+<p>さて、 Reflux 自体はこの「 INFINITAS からデータを取得してファイルに出力する」までを行います。
+Reflux 単体では可視化ができないわけです。</p>
+<p>そこで、 Reflux リポジトリの README にも記載がある、 <a href="https://docs.google.com/spreadsheets/d/1knAd_M_YMCYxc174y-3M_6EQNGsT2HpUKLQQjE_qhYs/edit?usp=sharing">Okapi's Unlock Tracker Spreadsheet</a> を使って可視化したいと思います。</p>
+<p>まず上記リンクにアクセスし、 <code>ファイル &gt; コピーを作成</code> で自分用にコピーを作成します。</p>
+<p><img src="2022-09-03-00-43-46.png" alt="Google Spreadsheet上でコピーを作成"></p>
+<p>これで自分用のコピーが生まれます。<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<h2 id="5-reflux-のフォルダを-google-ドライブに配置">5. Reflux のフォルダを Google ドライブに配置</h2>
+<p>先ほどコピーしたスプレッドシートが自分の Google ドライブにあるはずですが(多分一番上の階層)、そこと同じ場所に Reflux のフォルダを移動させます。
+パソコン版ドライブをインストールしておけば、 Windows のエクスプローラ上で移動できます。</p>
+<p><img src="2022-09-03-00-54-27.png" alt="Googleドライブに配置"></p>
+<p>こうすることで、 Reflux で出力したプレー成績のデータが、都度自動的に Google ドライブにアップロードされます。</p>
+<h2 id="6-コピーしたシートで-import-tsv-data-をクリック">6. コピーしたシートで <code>Import TSV data</code> をクリック</h2>
+<p>コピーしたスプレッドシートの上部にある <code>Import TSV data</code> ボタンをクリックし、
+次に表示される <code>Import from Drive</code> という項目をクリック。</p>
+<p><img src="2022-09-03-01-10-49.png" alt="コピーしたスプレッドシートの Import TSV data ボタン"></p>
+<h3 id="初回のみ承認が必要">初回のみ、承認が必要</h3>
+<p>初回のみ、承認が必要と言われるので、内容を確認します。</p>
+<p><img src="2022-09-03-00-59-53.png" alt="承認が必要ダイアログ"></p>
+<p>途中、 <strong>このアプリは Google で確認されていません</strong> というダイアログが表示されます。</p>
+<p><img src="2022-09-03-01-23-03.png" alt="このアプリは Google で確認されていませんダイアログ"></p>
+<p>左下の「詳細」を押すと、 <code>Import TSV (安全ではないページ)に移動</code> というリンクが現れます。
+続行するにはこのリンクを押す必要がありますが、ダイアログに記載の通り <strong>リスクを理解した場合のみ</strong> 先に進んでください。</p>
+<p><code>Import TSV が Google アカウントへのアクセスをリクエストしています</code> というダイアログが出るので、中身を確認し、良ければ <code>許可</code> をクリックします。</p>
+<h3 id="6-import-tsv-data-を使わず手動でインポートする">6'. <code>Import TSV data</code> を使わず手動でインポートする</h3>
+<p>ちなみに、 6. の手順で Import TSV data を使わず、手動でインポートする事も可能です。</p>
+<ol>
+<li><code>TSV</code> という名前のシートが非表示になっているので左下の <code>三</code> から選択して表示します。</li>
+<li><code>ファイル &gt; インポート</code> から、 Reflux フォルダの <code>tracker.tsv</code> を選択します。</li>
+<li>表示されたダイアログで <code>インポート場所</code> を <code>現在のシートを置換する</code> にし、 <code>テキストを数値、日付、数式に変換する</code> のチェックを外します</li>
+<li><code>データをインポート</code> ボタンを押します。</li>
+</ol>
+<hr>
+<p>これでめでたく可視化されます 🎉</p>
+<p>1回この作業を行えば、以降は 6. の <code>Import TSV data</code> ボタンを押す(または 6'. の作業をやる)だけになります。簡単ですね！</p>
+<p>みなさんも Reflux を使って INFINITAS ライフをenjoyしましょう 👍</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>IIDX には <a href="https://p.eagate.573.jp/game/2dx/22/p/newsong/reflux.html">Reflux という曲がありますよね</a>。ここから取ったのかな？&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>初期状態では自分しかアクセスできないようになっているので、他の人に見せたい場合は共有設定を変更してください。&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content></item><item><title>2級FP技能検定に合格しました</title><link>https://blog.kusuha.com/posts/2022/07/pass_fp2/</link><pubDate>Thu, 14 Jul 2022 22:30:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/07/pass_fp2/</guid><description>pic.twitter.com/JRHrUFfQ2q &amp;mdash; くすは㌠ (@dj_kusuha) 2022年7月4日 3月に 3級FPに合格した記事 を書きましたが、その後2級も受験し、無事に合格出来ました💪 学科は 50点/60点 (</description><content type="html"><![CDATA[<blockquote class="twitter-tweet" data-lang="ja" data-theme="light"><p lang="zxx" dir="ltr"><a href="https://t.co/JRHrUFfQ2q">pic.twitter.com/JRHrUFfQ2q</a></p>&mdash; くすは㌠ (@dj_kusuha) <a href="https://twitter.com/dj_kusuha/status/1543847857090101251?ref_src=twsrc%5Etfw">2022年7月4日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>3月に <a href="https://blog.kusuha.com/posts/2022/03/pass_fp3/">3級FPに合格した記事</a> を書きましたが、その後2級も受験し、無事に合格出来ました💪</p>
 <p>学科は 50点/60点 (36点以上で合格)、実技は 95点/100点 (60点以上で合格) ということで、 <strong>完全合格</strong><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> です＼( 'ω')／</p>
 <p>これで <strong>2級ファイナンシャル・プランニング技能士</strong> を名乗ることができますｗ</p>
