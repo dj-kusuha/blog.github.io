@@ -3,7 +3,7 @@ title: "beatmaniaIIDX INFINITAS のプレー成績を Reflux で可視化する"
 date: 2022-09-03T01:25:00+09:00
 toc: false
 images:
-  - feature.svg
+  - feature.png
 tags: 
   - beatmaniaIIDX
   - INFINITAS
@@ -20,7 +20,7 @@ tags:
 
 可視化した結果は以下の通り。
 
-[![Reflux + Okapi's Unlock Tracker Spreadsheet で可視化した結果](2022-09-03-00-12-50.png)](2022-09-03-00-17-39.png)
+[![Reflux + Okapi's Unlock Tracker Spreadsheet で可視化した結果](2022-09-03-00-17-39.png)](2022-09-03-00-17-39.png)
 
 [実際の Spreadsheet はこちら。](https://docs.google.com/spreadsheets/d/1xrS5Evao-OTzqpbwOSKlvCYdTIX61IDuKj6FaIDdsy0/edit#gid=1205234399)
 
