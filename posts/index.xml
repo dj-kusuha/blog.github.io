@@ -4,7 +4,7 @@
 <p>で、プレーしているとクリアやスコアの状況を管理したくなるわけですが、手動でやるのはめんどくさい！</p>
 <p>というわけでどうしたものかと思案していたんですが、 <a href="https://github.com/olji/Reflux">Reflux</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> というツールを教えてもらったので、導入してみました。</p>
 <p>可視化した結果は以下の通り。</p>
-<p><a href="2022-09-03-00-17-39.png"><img src="2022-09-03-00-12-50.png" alt="Reflux + Okapi's Unlock Tracker Spreadsheet で可視化した結果"></a></p>
+<p><a href="2022-09-03-00-17-39.png"><img src="2022-09-03-00-17-39.png" alt="Reflux + Okapi's Unlock Tracker Spreadsheet で可視化した結果"></a></p>
 <p><a href="https://docs.google.com/spreadsheets/d/1xrS5Evao-OTzqpbwOSKlvCYdTIX61IDuKj6FaIDdsy0/edit#gid=1205234399">実際の Spreadsheet はこちら。</a></p>
 <p>難易度やSP/DPでフィルタかけたり、ソート順を任意に指定できるので、自分の好きな見た目にできます！
 これがあると現状把握や次の目標設定とかが凄い便利になったので、お勧めです。
