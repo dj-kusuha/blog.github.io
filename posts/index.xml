@@ -1,4 +1,76 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Sat, 03 Sep 2022 01:25:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>beatmaniaIIDX INFINITAS のプレー成績を Reflux で可視化する</title><link>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</link><pubDate>Sat, 03 Sep 2022 01:25:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</guid><description>最近 beatmaniaIIDX INFINITAS を再開しました！ やっぱり楽しいですね💪('ω'💪) で、プレーしているとクリアやスコアの状況を管理したくなるわけですが、手動でやるのは</description><content type="html"><![CDATA[<p><a href="https://github.com/olji/Reflux"><img src="feature.svg" alt="olji/Reflux"></a></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Thu, 22 Dec 2022 23:00:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>令和4年度秋期プロジェクトマネージャ試験に合格しました</title><link>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</link><pubDate>Thu, 22 Dec 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</guid><description>2022年10月9日に実施された、IPAの令和4年度秋期プロジェクトマネージャ(PM)試験を受験し、本日合格発表だったんですが、見事合格して</description><content type="html"><![CDATA[<p><img src="feature.png" alt="受験結果"></p>
+<p>2022年10月9日に実施された、IPAの令和4年度秋期プロジェクトマネージャ(PM)試験を受験し、本日合格発表だったんですが、<strong>見事合格してました！</strong><br>
+めっちゃ嬉しい～。</p>
+<p>参考までに私の状況と勉強方法を記しておこうと思うので、これから受験しようと考えている方の参考になれば幸いです🙏</p>
+<h2 id="お仕事の状況など">お仕事の状況など</h2>
+<p>社会人12年目。社会人1年目からプログラマとしてソフトウェア開発に関わっています。<br>
+エンジニアをやりつつプロジェクトマネジメント的な事は時々やってましたが、ちゃんとマネジメントをメインに働き始めたのは3年くらい前からです。</p>
+<p>現在は少人数のチームのマネージャをやりながら、社内に設置された PMO (Project Management Office) のメンバーとして全社横断的な課題解決をしたりしています。</p>
+<h2 id="試験受験のきっかけ">試験受験のきっかけ</h2>
+<p>元々興味はあったんですが、調べると午後の問題が記述、特に午後IIが論述ということで、「これはしんどそうだなぁ～」と思って敬遠してましたｗ<br>
+だって2時間で何千文字も文章書くの、しんどいじゃないですか…。</p>
+<p>が、今年に入って今の上司の方から<br>
+「そんなに大変じゃないよ、くすはさんならちゃんと勉強したら合格するんじゃない？」<br>
+と言われたので、 ま～受かったら自分に箔も付くしネ、ということで<br>
+「じゃあやるか～」<br>
+と思って受験を決意(？)。</p>
+<h2 id="勉強のために購入したもの">勉強のために購入したもの</h2>
+<h3 id="2022プロジェクトマネージャ専門知識午後問題の重点対策">2022　プロジェクトマネージャ　「専門知識＋午後問題」の重点対策</h3>
+<p><a href="https://www.amazon.co.jp/dp/B0B1J8ZZ9L">https://www.amazon.co.jp/dp/B0B1J8ZZ9L</a></p>
+<p>午前II, 午後I, 午後II 対策として購入。<br>
+「みよちゃん本」と呼ばれる三好 康之氏の参考書と迷ったんですが、昔IPAの試験を受けたとき<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>にひたすらお世話になっていたiTEC社のものを信用して購入しました。</p>
+<p>PMBOKなどを体系的に勉強したことが無かったので、知識一般を学びつつ、午後Iの過去問解説が充実してたのと、午後IIの回答例論文が5～6本ほど載っていて参考になりました。</p>
+<h3 id="2022高度午前応用情報午前試験対策書">2022　高度午前Ⅰ・応用情報午前試験対策書</h3>
+<p><a href="https://www.amazon.co.jp/dp/B09J8VZ6NN">https://www.amazon.co.jp/dp/B09J8VZ6NN</a></p>
+<p>午前I 対策として購入。</p>
+<p>…が、あまり活用しませんでした😅<br>
+午前対策は過去問道場で事足りちゃいました(後述)</p>
+<h2 id="勉強方法">勉強方法</h2>
+<h3 id="午前i">午前I</h3>
+<p>午前I については、 <a href="https://www.ap-siken.com/">応用情報技術者試験ドットコム</a> の過去問道場というコンテンツでひたすら過去問を解いて、分からなかった問題は解説を読む、を繰り返していました。
+これは試験1ヶ月くらい前からはじめて、空き時間にポチポチやってました。</p>
+<p>本当は、買った <code>午前試験対策書</code> を一通りサラッと読んでから過去問をやろうと思っていたんですが、参考書が分厚く、心が折れてしまいました😇</p>
+<p>試験終了時の、過去問道場の成績レポートはこんな感じ↓</p>
+<p><img src="ap-siken.png" alt="応用情報技術者試験ドットコムの過去問道場成績レポート"></p>
+<h3 id="午前ii">午前II</h3>
+<p>午前II はまず <code>「専門知識＋午後問題」の重点対策</code> の知識部分を一通り読了。<br>
+その後、おなじく <a href="https://www.pm-siken.com/">プロジェクトマネージャ試験ドットコム</a> の過去問道場で過去問を解きつつ解説を読んで学習を進めました。</p>
+<p>午前II の問題はかなり過去問が流用されているようで、同じ問題を何度も解いたので、問題文見ただけで解答が分かるようになった問題もありましたｗ</p>
+<p>試験終了時の、過去問道場の成績レポートはこんな感じ↓</p>
+<p><img src="pm-siken.png" alt="プロジェクトマネージャ試験ドットコムの過去問道場成績レポート"></p>
+<h3 id="午後i">午後I</h3>
+<p>午後I は <code>「専門知識＋午後問題」の重点対策</code> に掲載されていた過去問を解き、その後解説を読む、を繰り返していました。<br>
+全部で16問ほど掲載されていたんですが、1周した後、2周目を途中までやったと思います。</p>
+<p>1問解いて解説を一通り読む、までやると平気で1時間とか経っちゃうので、1～2ヶ月くらい続けていました。</p>
+<h3 id="午後ii">午後II</h3>
+<p>午後IIは小論文なんですが、これまで小論文を書く試験を受けたことがないので、最初はかなり不安が大きかったです。</p>
+<p><code>「専門知識＋午後問題」の重点対策</code> に過去問と回答例の論文が掲載されていたので、まず一通り読んで、どのような構成で記述すれば良いのかを把握しました。<br>
+その後、自分の経験に基づいてそれぞれの問題を解いてみました。</p>
+<p>最初はやっぱり書き方が分からなかったので、最初の2～3問くらいは回答例の論文を参考にしながら書いていたと思います。<br>
+回数をこなすうちにだんだん書き方が掴めてきました。とはいえ、やはり試験まで不安が大きかったですが😓</p>
+<p>あと、午後Iもなんですが、勉強中は途中までパソコンを使って書いてました。手で書くのしんどいのでｗ<br>
+とはいっても試験当日は手で書くので、後半は時間を計りつつ手書きでやってました。<br>
+2時間文字を書き続けると腕がしんどい…😩</p>
+<h2 id="総評">総評</h2>
+<p>上記の本は5月末に購入。試験が10月上旬だったので、4ヶ月ほど前から学習開始したことに。<br>
+1日30分～1時間くらいを、だいたい毎日続けていたと思います。<br>
+全部で100時間くらい勉強したのかな…あんまり覚えてないですが。</p>
+<p>午前I,II は過去問道場のおかげで自分の正答率がだいたい分かってきて、試験直前は7～8割くらい解けるようになっていたので、自信を持って受験できました。過去問道場さんいつもありがとうございます🙏<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>午後I,II は、午前ほどの自信はなかったものの、「ま～なんとかなるっしょｗ」くらいの気持ちでは受験できたので、結果的に力が抜けて良かったのかなと思ってますｗ<br>
+最後の1ヶ月くらいでちゃんと手書きで時間計ってやったのも、本番のタイムキープが上手くいった要因かも。</p>
+<p>とりあえず、また来年受けるのは結構しんどいなぁと思ってたので、受かってよかったです！うれしい！</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>もう16年とか前…懐かしい&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="../../07/pass_fp2/">以前に受けたFPの試験の時</a>にもお世話になってますｗ 本当に便利なサイトでおすすめです。&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content></item><item><title>beatmaniaIIDX INFINITAS のプレー成績を Reflux で可視化する</title><link>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</link><pubDate>Sat, 03 Sep 2022 01:25:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</guid><description>最近 beatmaniaIIDX INFINITAS を再開しました！ やっぱり楽しいですね💪('ω'💪) で、プレーしているとクリアやスコアの状況を管理したくなるわけですが、手動でやるのは</description><content type="html"><![CDATA[<p><a href="https://github.com/olji/Reflux"><img src="feature.svg" alt="olji/Reflux"></a></p>
 <p>最近 <a href="http://p.eagate.573.jp/game/eac2dx/infinitas/p/common/top.html">beatmaniaIIDX INFINITAS</a> を再開しました！
 やっぱり楽しいですね💪('ω'💪)</p>
 <p>で、プレーしているとクリアやスコアの状況を管理したくなるわけですが、手動でやるのはめんどくさい！</p>
