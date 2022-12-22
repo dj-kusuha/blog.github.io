@@ -5,6 +5,7 @@ description: 5月に受けた2級FP技能検定で無事合格しました！
 categories:
   - お金
 tags: 
+  - 試験
   - FP
 ---
 
