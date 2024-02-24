@@ -1,4 +1,39 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Thu, 22 Dec 2022 23:00:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>令和4年度秋期プロジェクトマネージャ試験に合格しました</title><link>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</link><pubDate>Thu, 22 Dec 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</guid><description>2022年10月9日に実施された、IPAの令和4年度秋期プロジェクトマネージャ(PM)試験を受験し、本日合格発表だったんですが、見事合格して</description><content type="html"><![CDATA[<p><img src="feature.png" alt="受験結果"></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Wed, 04 Oct 2023 22:45:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS ソリューションアーキテクトアソシエイトに合格しました</title><link>https://blog.kusuha.com/posts/2023/10/pass_aws_saa/</link><pubDate>Wed, 04 Oct 2023 22:45:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2023/10/pass_aws_saa/</guid><description>AWS SAA合格してた💪(&amp;#39;ω&amp;#39;💪) pic.twitter.com/o7WPYTR7Di &amp;mdash; くすはさん (@dj_kusuha) September 10, 2023 というわけで、9月に受けていた AWS ソリューションアーキテクトアソシエイト</description><content type="html"><![CDATA[<p><img src="feature.png" alt="AWS SAA デジタルバッジ"></p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">AWS SAA合格してた💪(&#39;ω&#39;💪) <a href="https://t.co/o7WPYTR7Di">pic.twitter.com/o7WPYTR7Di</a></p>&mdash; くすはさん (@dj_kusuha) <a href="https://twitter.com/dj_kusuha/status/1700801999972012121?ref_src=twsrc%5Etfw">September 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>というわけで、9月に受けていた AWS ソリューションアーキテクトアソシエイト(以下、SAA) ですが、無事に合格していました！</p>
+<p>今回もザックリ勉強内容をまとめます。</p>
+<h2 id="受験のきっかけ">受験のきっかけ</h2>
+<p>お仕事でちゃんと AWS に触れる事になったのがきっかけです。</p>
+<p>これまでは Unity を中心としたクライアント側メインの業務が主だったんですが、サーバー側もやりたいなと思って志願して今年からサーバーチームにジョインさせてもらいました。</p>
+<p>そこで AWS を利用していたので、 AWS を一通り勉強しようと思って調べてみたところ、 AWS 認定試験なるものを見つけ、いくつか種類はあるものの SAA が良さそうだな、と思って受験を決意。</p>
+<p>また、 <a href="https://pages.awscloud.com/traincert-JAPAN-field-GC-Associate-Certification-Challenge-2022-reg-event.html">Associateチャレンジ</a> という、受験料が半額になるキャンペーンもやっていた<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>ので、それも受験モチベに繋がりました。</p>
+<h2 id="利用した教材">利用した教材</h2>
+<p><a href="https://www.amazon.co.jp/dp/B0BSW3K3RM">要点整理から攻略する　『AWS認定ソリューションアーキテクト-アソシエイト』 Kindle版</a></p>
+<p>この本を買って一通り読み、巻末の練習問題を2週くらい解きました。</p>
+<p>あとは <a href="https://skillbuilder.aws/jp">AWS Skill Builder</a> で公式の模擬問題集が提供されていたので、それも解きました。</p>
+<h2 id="勉強期間">勉強期間</h2>
+<p>受験しようと思ったのが7月くらいで、受験したのが9月9日なので、<strong>およそ2ヶ月</strong>くらいでしょうか。1日あたりの勉強時間はだいたい<strong>1時間くらい</strong>だったと思います。なのでSAA受験のための<strong>総学習時間は60時間前後</strong>といったところ。</p>
+<p>お仕事でも一部のAWSサービスについては日々触っていたので、それも合わせると<strong>AWSに思いを馳せてたのは100時間くらいかも。</strong></p>
+<p>ちなみに去年まではAWSほぼまともに触った事がなくて知見がかなり浅い状態だったので、既に下地がある人はもう少し学習時間短くても良さそうです。</p>
+<h2 id="受験してどうだったか">受験してどうだったか</h2>
+<p>勉強してる時はまぁまぁ大変でした😇</p>
+<p>「こんなサービス、ワイは今後使う機会なさそ〜」みたいなサービスも理解しないといけないし、モチベーションの維持がなかなか難しかったです。</p>
+<p>一方で、割とよく使うであろう EC2, S3, RDS, CloudFront, VPC周り…といった部分で改めて知ったところも多々あり、今後の業務にも活かせそうな知識がある程度溜まったので、受験して良かったな〜と思います。</p>
+<h2 id="sap受けるの">SAP受けるの？</h2>
+<p>今は何も考えていませんｗ</p>
+<p>今後もっとAWSを業務で使っていって理解が深まったら受験を考えるかも。</p>
+<p>受験料も高いよね…一応合格者向けに半額のバウチャーをもらったので、SAA有効期限である3年以内に受けれたら良いなぁ。</p>
+<h2 id="おわりに">おわりに</h2>
+<p>AWS を使ったお仕事、した〜い！</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>2023年9月で申し込み終了してしまいました…&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content></item><item><title>令和4年度秋期プロジェクトマネージャ試験に合格しました</title><link>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</link><pubDate>Thu, 22 Dec 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</guid><description>2022年10月9日に実施された、IPAの令和4年度秋期プロジェクトマネージャ(PM)試験を受験し、本日合格発表だったんですが、見事合格して</description><content type="html"><![CDATA[<p><img src="feature.png" alt="受験結果"></p>
 <p>2022年10月9日に実施された、IPAの令和4年度秋期プロジェクトマネージャ(PM)試験を受験し、本日合格発表だったんですが、<strong>見事合格してました！</strong><br>
 めっちゃ嬉しい～。</p>
 <p>参考までに私の状況と勉強方法を記しておこうと思うので、これから受験しようと考えている方の参考になれば幸いです🙏</p>
