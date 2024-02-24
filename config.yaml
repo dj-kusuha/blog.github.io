@@ -9,7 +9,7 @@ contentDir: posts
 publishDir: docs
 copyright: Copyright © くすは; all rights reserved.
 paginate: 10
-theme: hermit
+theme: hermit-v2
 googleAnalytics: "G-36ZKMZ1PCV"
 
 enableEmoji: true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
