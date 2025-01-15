@@ -8,7 +8,6 @@ languageCode: ja-jp
 contentDir: posts
 publishDir: docs
 copyright: Copyright © くすは; all rights reserved.
-paginate: 10
 theme: hermit-v2
 googleAnalytics: "G-36ZKMZ1PCV"
 
@@ -83,6 +82,9 @@ params:
 
   - name: "github"
     url: "https://github.com/dj-kusuha"
+
+pagination:
+  pagerSize: 10
 
 menu:
   main:
