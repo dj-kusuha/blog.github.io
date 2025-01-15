@@ -1,29 +1,76 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Wed, 04 Oct 2023 22:45:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS ソリューションアーキテクトアソシエイトに合格しました</title><link>https://blog.kusuha.com/posts/2023/10/pass_aws_saa/</link><pubDate>Wed, 04 Oct 2023 22:45:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2023/10/pass_aws_saa/</guid><description>AWS SAA合格してた💪(&amp;#39;ω&amp;#39;💪) pic.twitter.com/o7WPYTR7Di &amp;mdash; くすはさん (@dj_kusuha) September 10, 2023 というわけで、9月に受けていた AWS ソリューションアーキテクトアソシエイト</description><content type="html"><![CDATA[<p><img src="feature.png" alt="AWS SAA デジタルバッジ"></p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Posts on くすブロ</title><link>https://blog.kusuha.com/posts/</link><description>Recent content in Posts on くすブロ</description><generator>Hugo -- 0.140.2</generator><language>ja-jp</language><copyright>Copyright © くすは; all rights reserved.</copyright><lastBuildDate>Wed, 15 Jan 2025 12:30:00 +0900</lastBuildDate><atom:link href="https://blog.kusuha.com/posts/index.xml" rel="self" type="application/rss+xml"/><image><title>くすブロ</title><url>https://blog.kusuha.com/thumbnail.png</url><link>https://blog.kusuha.com/thumbnail.png</link></image><item><title>英語学習の現状と、2025年の目標</title><link>https://blog.kusuha.com/posts/2025/01/learning_english/</link><pubDate>Wed, 15 Jan 2025 12:30:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2025/01/learning_english/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p>気づいたら前回の記事から1年以上空いてしまった…</p>
+<p>さて、ちびちびと英語の学習を続けています。
+去年はじめた <a href="https://www.duolingo.com/">Duolingo</a> は、400日を突破してました。</p>
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">400 <a href="https://t.co/riu6ApY7OX">pic.twitter.com/riu6ApY7OX</a></p>&mdash; くすはさん (@dj_kusuha) <a href="https://twitter.com/dj_kusuha/status/1878074982175265084?ref_src=twsrc%5Etfw">January 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>そして、去年は英検2級に合格したりしてました 🎉🎉🎉</p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">英検2級合格してた！やった〜 <a href="https://t.co/aXEDpix04y">pic.twitter.com/aXEDpix04y</a></p>&mdash; くすはさん (@dj_kusuha) <a href="https://twitter.com/dj_kusuha/status/1811317270557467136?ref_src=twsrc%5Etfw">July 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>中学生の頃、英検の面接が嫌で受けてなかったんですが、今は英検CBTでコンピュータ相手にスピーキングできるので、いい時代になりました（？）</p>
+<p>TOEIC も受けたいな〜って思ってたんですが、結局去年は受けず。</p>
+<p>で、そもそもの目標は英会話ができるようになることなので、そろそろ英会話の練習をしたいな〜と考え中です。
+本当は対人でやりたいけど、高いし、通うのも大変なので、オンライン英会話かなぁ。
+オンライン英会話もやる時間確保が大変なので、どうやっていくかを考えないといけない…。</p>
+<p>…って考えてると結局めんどくさくなってやらなくなっちゃうんですよねｗ
+今年はちゃんとやっていくぞ〜ｓ</p>
+<p>ほかにも Duolingo は継続していきたいし（最近 Duolingo MAX<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> に課金しました）、 <a href="https://cambridge-university-press.jp/material/giu_br-2/">ENGLISH GRAMMER IN USE</a> っていう文法書を買ったりしたので、このあたりも平行してやっていこうと思います💪('ω'💪)</p>
+<p>というわけで、<strong>40歳までに英会話できるようになる</strong>という目標に向けて、今年も頑張っていくぞ〜</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>「Duolingo Max」が日本上陸！GPT-4／GPT-4oを活用した「リリーとビデオ通話」機能が新たに登場！ <a href="https://prtimes.jp/main/html/rd/p/000000052.000069537.html">https://prtimes.jp/main/html/rd/p/000000052.000069537.html</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content></item><item><title>AWS ソリューションアーキテクトアソシエイトに合格しました</title><link>https://blog.kusuha.com/posts/2023/10/pass_aws_saa/</link><pubDate>Wed, 04 Oct 2023 22:45:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2023/10/pass_aws_saa/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p><img src="feature.png" alt="AWS SAA デジタルバッジ"></p>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">AWS SAA合格してた💪(&#39;ω&#39;💪) <a href="https://t.co/o7WPYTR7Di">pic.twitter.com/o7WPYTR7Di</a></p>&mdash; くすはさん (@dj_kusuha) <a href="https://twitter.com/dj_kusuha/status/1700801999972012121?ref_src=twsrc%5Etfw">September 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>というわけで、9月に受けていた AWS ソリューションアーキテクトアソシエイト(以下、SAA) ですが、無事に合格していました！</p>
 <p>今回もザックリ勉強内容をまとめます。</p>
-<h2 id="受験のきっかけ">受験のきっかけ</h2>
+<h2 id="受験のきっかけ">受験のきっかけ<a href="#%e5%8f%97%e9%a8%93%e3%81%ae%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>お仕事でちゃんと AWS に触れる事になったのがきっかけです。</p>
 <p>これまでは Unity を中心としたクライアント側メインの業務が主だったんですが、サーバー側もやりたいなと思って志願して今年からサーバーチームにジョインさせてもらいました。</p>
 <p>そこで AWS を利用していたので、 AWS を一通り勉強しようと思って調べてみたところ、 AWS 認定試験なるものを見つけ、いくつか種類はあるものの SAA が良さそうだな、と思って受験を決意。</p>
 <p>また、 <a href="https://pages.awscloud.com/traincert-JAPAN-field-GC-Associate-Certification-Challenge-2022-reg-event.html">Associateチャレンジ</a> という、受験料が半額になるキャンペーンもやっていた<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>ので、それも受験モチベに繋がりました。</p>
-<h2 id="利用した教材">利用した教材</h2>
+<h2 id="利用した教材">利用した教材<a href="#%e5%88%a9%e7%94%a8%e3%81%97%e3%81%9f%e6%95%99%e6%9d%90" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p><a href="https://www.amazon.co.jp/dp/B0BSW3K3RM">要点整理から攻略する　『AWS認定ソリューションアーキテクト-アソシエイト』 Kindle版</a></p>
 <p>この本を買って一通り読み、巻末の練習問題を2週くらい解きました。</p>
 <p>あとは <a href="https://skillbuilder.aws/jp">AWS Skill Builder</a> で公式の模擬問題集が提供されていたので、それも解きました。</p>
-<h2 id="勉強期間">勉強期間</h2>
+<h2 id="勉強期間">勉強期間<a href="#%e5%8b%89%e5%bc%b7%e6%9c%9f%e9%96%93" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>受験しようと思ったのが7月くらいで、受験したのが9月9日なので、<strong>およそ2ヶ月</strong>くらいでしょうか。1日あたりの勉強時間はだいたい<strong>1時間くらい</strong>だったと思います。なのでSAA受験のための<strong>総学習時間は60時間前後</strong>といったところ。</p>
 <p>お仕事でも一部のAWSサービスについては日々触っていたので、それも合わせると<strong>AWSに思いを馳せてたのは100時間くらいかも。</strong></p>
 <p>ちなみに去年まではAWSほぼまともに触った事がなくて知見がかなり浅い状態だったので、既に下地がある人はもう少し学習時間短くても良さそうです。</p>
-<h2 id="受験してどうだったか">受験してどうだったか</h2>
+<h2 id="受験してどうだったか">受験してどうだったか<a href="#%e5%8f%97%e9%a8%93%e3%81%97%e3%81%a6%e3%81%a9%e3%81%86%e3%81%a0%e3%81%a3%e3%81%9f%e3%81%8b" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>勉強してる時はまぁまぁ大変でした😇</p>
 <p>「こんなサービス、ワイは今後使う機会なさそ〜」みたいなサービスも理解しないといけないし、モチベーションの維持がなかなか難しかったです。</p>
 <p>一方で、割とよく使うであろう EC2, S3, RDS, CloudFront, VPC周り…といった部分で改めて知ったところも多々あり、今後の業務にも活かせそうな知識がある程度溜まったので、受験して良かったな〜と思います。</p>
-<h2 id="sap受けるの">SAP受けるの？</h2>
+<h2 id="sap受けるの">SAP受けるの？<a href="#sap%e5%8f%97%e3%81%91%e3%82%8b%e3%81%ae" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>今は何も考えていませんｗ</p>
 <p>今後もっとAWSを業務で使っていって理解が深まったら受験を考えるかも。</p>
 <p>受験料も高いよね…一応合格者向けに半額のバウチャーをもらったので、SAA有効期限である3年以内に受けれたら良いなぁ。</p>
-<h2 id="おわりに">おわりに</h2>
+<h2 id="おわりに">おわりに<a href="#%e3%81%8a%e3%82%8f%e3%82%8a%e3%81%ab" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>AWS を使ったお仕事、した〜い！</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
@@ -33,15 +80,23 @@
 </li>
 </ol>
 </div>
-]]></content></item><item><title>令和4年度秋期プロジェクトマネージャ試験に合格しました</title><link>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</link><pubDate>Thu, 22 Dec 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</guid><description>2022年10月9日に実施された、IPAの令和4年度秋期プロジェクトマネージャ(PM)試験を受験し、本日合格発表だったんですが、見事合格して</description><content type="html"><![CDATA[<p><img src="feature.png" alt="受験結果"></p>
+]]></content></item><item><title>令和4年度秋期プロジェクトマネージャ試験に合格しました</title><link>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</link><pubDate>Thu, 22 Dec 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/12/pass_2022_pm/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p><img src="feature.png" alt="受験結果"></p>
 <p>2022年10月9日に実施された、IPAの令和4年度秋期プロジェクトマネージャ(PM)試験を受験し、本日合格発表だったんですが、<strong>見事合格してました！</strong><br>
 めっちゃ嬉しい～。</p>
 <p>参考までに私の状況と勉強方法を記しておこうと思うので、これから受験しようと考えている方の参考になれば幸いです🙏</p>
-<h2 id="お仕事の状況など">お仕事の状況など</h2>
+<h2 id="お仕事の状況など">お仕事の状況など<a href="#%e3%81%8a%e4%bb%95%e4%ba%8b%e3%81%ae%e7%8a%b6%e6%b3%81%e3%81%aa%e3%81%a9" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>社会人12年目。社会人1年目からプログラマとしてソフトウェア開発に関わっています。<br>
 エンジニアをやりつつプロジェクトマネジメント的な事は時々やってましたが、ちゃんとマネジメントをメインに働き始めたのは3年くらい前からです。</p>
 <p>現在は少人数のチームのマネージャをやりながら、社内に設置された PMO (Project Management Office) のメンバーとして全社横断的な課題解決をしたりしています。</p>
-<h2 id="試験受験のきっかけ">試験受験のきっかけ</h2>
+<h2 id="試験受験のきっかけ">試験受験のきっかけ<a href="#%e8%a9%a6%e9%a8%93%e5%8f%97%e9%a8%93%e3%81%ae%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>元々興味はあったんですが、調べると午後の問題が記述、特に午後IIが論述ということで、「これはしんどそうだなぁ～」と思って敬遠してましたｗ<br>
 だって2時間で何千文字も文章書くの、しんどいじゃないですか…。</p>
 <p>が、今年に入って今の上司の方から<br>
@@ -49,35 +104,67 @@
 と言われたので、 ま～受かったら自分に箔も付くしネ、ということで<br>
 「じゃあやるか～」<br>
 と思って受験を決意(？)。</p>
-<h2 id="勉強のために購入したもの">勉強のために購入したもの</h2>
-<h3 id="2022プロジェクトマネージャ専門知識午後問題の重点対策">2022　プロジェクトマネージャ　「専門知識＋午後問題」の重点対策</h3>
+<h2 id="勉強のために購入したもの">勉強のために購入したもの<a href="#%e5%8b%89%e5%bc%b7%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab%e8%b3%bc%e5%85%a5%e3%81%97%e3%81%9f%e3%82%82%e3%81%ae" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="2022プロジェクトマネージャ専門知識午後問題の重点対策">2022　プロジェクトマネージャ　「専門知識＋午後問題」の重点対策<a href="#2022%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e5%b0%82%e9%96%80%e7%9f%a5%e8%ad%98%e5%8d%88%e5%be%8c%e5%95%8f%e9%a1%8c%e3%81%ae%e9%87%8d%e7%82%b9%e5%af%be%e7%ad%96" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p><a href="https://www.amazon.co.jp/dp/B0B1J8ZZ9L">https://www.amazon.co.jp/dp/B0B1J8ZZ9L</a></p>
 <p>午前II, 午後I, 午後II 対策として購入。<br>
 「みよちゃん本」と呼ばれる三好 康之氏の参考書と迷ったんですが、昔IPAの試験を受けたとき<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>にひたすらお世話になっていたiTEC社のものを信用して購入しました。</p>
 <p>PMBOKなどを体系的に勉強したことが無かったので、知識一般を学びつつ、午後Iの過去問解説が充実してたのと、午後IIの回答例論文が5～6本ほど載っていて参考になりました。</p>
-<h3 id="2022高度午前応用情報午前試験対策書">2022　高度午前Ⅰ・応用情報午前試験対策書</h3>
+<h3 id="2022高度午前応用情報午前試験対策書">2022　高度午前Ⅰ・応用情報午前試験対策書<a href="#2022%e9%ab%98%e5%ba%a6%e5%8d%88%e5%89%8d%e5%bf%9c%e7%94%a8%e6%83%85%e5%a0%b1%e5%8d%88%e5%89%8d%e8%a9%a6%e9%a8%93%e5%af%be%e7%ad%96%e6%9b%b8" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p><a href="https://www.amazon.co.jp/dp/B09J8VZ6NN">https://www.amazon.co.jp/dp/B09J8VZ6NN</a></p>
 <p>午前I 対策として購入。</p>
 <p>…が、あまり活用しませんでした😅<br>
 午前対策は過去問道場で事足りちゃいました(後述)</p>
-<h2 id="勉強方法">勉強方法</h2>
-<h3 id="午前i">午前I</h3>
+<h2 id="勉強方法">勉強方法<a href="#%e5%8b%89%e5%bc%b7%e6%96%b9%e6%b3%95" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="午前i">午前I<a href="#%e5%8d%88%e5%89%8di" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>午前I については、 <a href="https://www.ap-siken.com/">応用情報技術者試験ドットコム</a> の過去問道場というコンテンツでひたすら過去問を解いて、分からなかった問題は解説を読む、を繰り返していました。
 これは試験1ヶ月くらい前からはじめて、空き時間にポチポチやってました。</p>
 <p>本当は、買った <code>午前試験対策書</code> を一通りサラッと読んでから過去問をやろうと思っていたんですが、参考書が分厚く、心が折れてしまいました😇</p>
 <p>試験終了時の、過去問道場の成績レポートはこんな感じ↓</p>
 <p><img src="ap-siken.png" alt="応用情報技術者試験ドットコムの過去問道場成績レポート"></p>
-<h3 id="午前ii">午前II</h3>
+<h3 id="午前ii">午前II<a href="#%e5%8d%88%e5%89%8dii" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>午前II はまず <code>「専門知識＋午後問題」の重点対策</code> の知識部分を一通り読了。<br>
 その後、おなじく <a href="https://www.pm-siken.com/">プロジェクトマネージャ試験ドットコム</a> の過去問道場で過去問を解きつつ解説を読んで学習を進めました。</p>
 <p>午前II の問題はかなり過去問が流用されているようで、同じ問題を何度も解いたので、問題文見ただけで解答が分かるようになった問題もありましたｗ</p>
 <p>試験終了時の、過去問道場の成績レポートはこんな感じ↓</p>
 <p><img src="pm-siken.png" alt="プロジェクトマネージャ試験ドットコムの過去問道場成績レポート"></p>
-<h3 id="午後i">午後I</h3>
+<h3 id="午後i">午後I<a href="#%e5%8d%88%e5%be%8ci" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>午後I は <code>「専門知識＋午後問題」の重点対策</code> に掲載されていた過去問を解き、その後解説を読む、を繰り返していました。<br>
 全部で16問ほど掲載されていたんですが、1周した後、2周目を途中までやったと思います。</p>
 <p>1問解いて解説を一通り読む、までやると平気で1時間とか経っちゃうので、1～2ヶ月くらい続けていました。</p>
-<h3 id="午後ii">午後II</h3>
+<h3 id="午後ii">午後II<a href="#%e5%8d%88%e5%be%8cii" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>午後IIは小論文なんですが、これまで小論文を書く試験を受けたことがないので、最初はかなり不安が大きかったです。</p>
 <p><code>「専門知識＋午後問題」の重点対策</code> に過去問と回答例の論文が掲載されていたので、まず一通り読んで、どのような構成で記述すれば良いのかを把握しました。<br>
 その後、自分の経験に基づいてそれぞれの問題を解いてみました。</p>
@@ -86,7 +173,11 @@
 <p>あと、午後Iもなんですが、勉強中は途中までパソコンを使って書いてました。手で書くのしんどいのでｗ<br>
 とはいっても試験当日は手で書くので、後半は時間を計りつつ手書きでやってました。<br>
 2時間文字を書き続けると腕がしんどい…😩</p>
-<h2 id="総評">総評</h2>
+<h2 id="総評">総評<a href="#%e7%b7%8f%e8%a9%95" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>上記の本は5月末に購入。試験が10月上旬だったので、4ヶ月ほど前から学習開始したことに。<br>
 1日30分～1時間くらいを、だいたい毎日続けていたと思います。<br>
 全部で100時間くらい勉強したのかな…あんまり覚えてないですが。</p>
@@ -105,7 +196,7 @@
 </li>
 </ol>
 </div>
-]]></content></item><item><title>beatmaniaIIDX INFINITAS のプレー成績を Reflux で可視化する</title><link>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</link><pubDate>Sat, 03 Sep 2022 01:25:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</guid><description>最近 beatmaniaIIDX INFINITAS を再開しました！ やっぱり楽しいですね💪('ω'💪) で、プレーしているとクリアやスコアの状況を管理したくなるわけですが、手動でやるのは</description><content type="html"><![CDATA[<p><a href="https://github.com/olji/Reflux"><img src="feature.svg" alt="olji/Reflux"></a></p>
+]]></content></item><item><title>beatmaniaIIDX INFINITAS のプレー成績を Reflux で可視化する</title><link>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</link><pubDate>Sat, 03 Sep 2022 01:25:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/09/reflux_for_infinitas/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p><a href="https://github.com/olji/Reflux"><img src="feature.svg" alt="olji/Reflux"></a></p>
 <p>最近 <a href="http://p.eagate.573.jp/game/eac2dx/infinitas/p/common/top.html">beatmaniaIIDX INFINITAS</a> を再開しました！
 やっぱり楽しいですね💪('ω'💪)</p>
 <p>で、プレーしているとクリアやスコアの状況を管理したくなるわけですが、手動でやるのはめんどくさい！</p>
@@ -119,8 +210,16 @@
 <p>以下、Reflux の導入手順をまとめておきます。</p>
 <p>当然ですが、 <strong>以下の手順実行は自己責任でお願いします</strong> 🙏</p>
 <hr>
-<h1 id="導入手順">導入手順</h1>
-<h2 id="0-事前準備">0. 事前準備</h2>
+<h1 id="導入手順">導入手順<a href="#%e5%b0%8e%e5%85%a5%e6%89%8b%e9%a0%86" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<h2 id="0-事前準備">0. 事前準備<a href="#0-%e4%ba%8b%e5%89%8d%e6%ba%96%e5%82%99" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <ul>
 <li>Google アカウントを用意
 <ul>
@@ -147,41 +246,69 @@
 </ul>
 </li>
 </ul>
-<h2 id="1-reflux-をダウンロード">1. Reflux をダウンロード</h2>
+<h2 id="1-reflux-をダウンロード">1. Reflux をダウンロード<a href="#1-reflux-%e3%82%92%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>Reflux は GitHub 上で配布されています。 <a href="https://github.com/olji/Reflux/releases">Releases</a> から最新バージョン(この記事執筆辞典では <code>1.11.1</code> )をダウンロードします。
 以下の画像では <code>Reflux.1.11.1.7z</code> と書かれたリンクをクリックするとダウンロードできます。</p>
 <p><img src="2022-09-03-00-29-26.png" alt="GitHub Releases のスクリーンショット"></p>
-<h2 id="2-解凍して実行">2. 解凍して実行</h2>
+<h2 id="2-解凍して実行">2. 解凍して実行<a href="#2-%e8%a7%a3%e5%87%8d%e3%81%97%e3%81%a6%e5%ae%9f%e8%a1%8c" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>解凍すると <code>Reflux.exe</code> というファイルがあるため、実行します。</p>
 <p><img src="2022-09-03-00-33-08.png" alt="解凍した状態"></p>
 <p>正常に起動できたら、以下のようなコンソール画面が表示されます。</p>
 <p><img src="2022-09-03-00-34-40.png" alt="Reflux起動画面"></p>
 <p><strong>正常に起動しない場合、 .NET Core 3.1 のデスクトップランタイムが正常にインストールされていないかもしれません。</strong></p>
 <p>コンソール画面が出たら、そのまま置いておきます。</p>
-<h2 id="3-infinitas-を起動">3. INFINITAS を起動</h2>
+<h2 id="3-infinitas-を起動">3. INFINITAS を起動<a href="#3-infinitas-%e3%82%92%e8%b5%b7%e5%8b%95" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>上記のコンソール画面を出した状態で、 INFINITAS を起動します。
 Reflux が INFINITAS の起動を正常に検知できたら、コンソール画面に以下のようなログが表示されます。</p>
 <p><img src="2022-09-03-00-37-47.png" alt="INFINITASの起動を検知できた時のコンソール画面"></p>
 <p>その後、普通に INFINITAS をプレーし、終了後に Reflux のフォルダを確認していると、初期状態では無かったフォルダやファイルが存在しているはずです。</p>
 <p><img src="2022-09-03-00-39-44.png" alt="INFINITASの起動検知後のRefluxフォルダの中身"></p>
 <p>これで、 Reflux が各種プレー成績のデータを取得できました。</p>
-<h2 id="4-okapis-unlock-tracker-spreadsheet-をコピー">4. Okapi's Unlock Tracker Spreadsheet をコピー</h2>
+<h2 id="4-okapis-unlock-tracker-spreadsheet-をコピー">4. Okapi's Unlock Tracker Spreadsheet をコピー<a href="#4-okapis-unlock-tracker-spreadsheet-%e3%82%92%e3%82%b3%e3%83%94%e3%83%bc" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>さて、 Reflux 自体はこの「 INFINITAS からデータを取得してファイルに出力する」までを行います。
 Reflux 単体では可視化ができないわけです。</p>
 <p>そこで、 Reflux リポジトリの README にも記載がある、 <a href="https://docs.google.com/spreadsheets/d/1knAd_M_YMCYxc174y-3M_6EQNGsT2HpUKLQQjE_qhYs/edit?usp=sharing">Okapi's Unlock Tracker Spreadsheet</a> を使って可視化したいと思います。</p>
 <p>まず上記リンクにアクセスし、 <code>ファイル &gt; コピーを作成</code> で自分用にコピーを作成します。</p>
 <p><img src="2022-09-03-00-43-46.png" alt="Google Spreadsheet上でコピーを作成"></p>
 <p>これで自分用のコピーが生まれます。<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
-<h2 id="5-reflux-のフォルダを-google-ドライブに配置">5. Reflux のフォルダを Google ドライブに配置</h2>
+<h2 id="5-reflux-のフォルダを-google-ドライブに配置">5. Reflux のフォルダを Google ドライブに配置<a href="#5-reflux-%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ab%e3%83%80%e3%82%92-google-%e3%83%89%e3%83%a9%e3%82%a4%e3%83%96%e3%81%ab%e9%85%8d%e7%bd%ae" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>先ほどコピーしたスプレッドシートが自分の Google ドライブにあるはずですが(多分一番上の階層)、そこと同じ場所に Reflux のフォルダを移動させます。
 パソコン版ドライブをインストールしておけば、 Windows のエクスプローラ上で移動できます。</p>
 <p><img src="2022-09-03-00-54-27.png" alt="Googleドライブに配置"></p>
 <p>こうすることで、 Reflux で出力したプレー成績のデータが、都度自動的に Google ドライブにアップロードされます。</p>
-<h2 id="6-コピーしたシートで-import-tsv-data-をクリック">6. コピーしたシートで <code>Import TSV data</code> をクリック</h2>
+<h2 id="6-コピーしたシートで-import-tsv-data-をクリック">6. コピーしたシートで <code>Import TSV data</code> をクリック<a href="#6-%e3%82%b3%e3%83%94%e3%83%bc%e3%81%97%e3%81%9f%e3%82%b7%e3%83%bc%e3%83%88%e3%81%a7-import-tsv-data-%e3%82%92%e3%82%af%e3%83%aa%e3%83%83%e3%82%af" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>コピーしたスプレッドシートの上部にある <code>Import TSV data</code> ボタンをクリックし、
 次に表示される <code>Import from Drive</code> という項目をクリック。</p>
 <p><img src="2022-09-03-01-10-49.png" alt="コピーしたスプレッドシートの Import TSV data ボタン"></p>
-<h3 id="初回のみ承認が必要">初回のみ、承認が必要</h3>
+<h3 id="初回のみ承認が必要">初回のみ、承認が必要<a href="#%e5%88%9d%e5%9b%9e%e3%81%ae%e3%81%bf%e6%89%bf%e8%aa%8d%e3%81%8c%e5%bf%85%e8%a6%81" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>初回のみ、承認が必要と言われるので、内容を確認します。</p>
 <p><img src="2022-09-03-00-59-53.png" alt="承認が必要ダイアログ"></p>
 <p>途中、 <strong>このアプリは Google で確認されていません</strong> というダイアログが表示されます。</p>
@@ -189,7 +316,11 @@ Reflux 単体では可視化ができないわけです。</p>
 <p>左下の「詳細」を押すと、 <code>Import TSV (安全ではないページ)に移動</code> というリンクが現れます。
 続行するにはこのリンクを押す必要がありますが、ダイアログに記載の通り <strong>リスクを理解した場合のみ</strong> 先に進んでください。</p>
 <p><code>Import TSV が Google アカウントへのアクセスをリクエストしています</code> というダイアログが出るので、中身を確認し、良ければ <code>許可</code> をクリックします。</p>
-<h3 id="6-import-tsv-data-を使わず手動でインポートする">6'. <code>Import TSV data</code> を使わず手動でインポートする</h3>
+<h3 id="6-import-tsv-data-を使わず手動でインポートする">6'. <code>Import TSV data</code> を使わず手動でインポートする<a href="#6-import-tsv-data-%e3%82%92%e4%bd%bf%e3%82%8f%e3%81%9a%e6%89%8b%e5%8b%95%e3%81%a7%e3%82%a4%e3%83%b3%e3%83%9d%e3%83%bc%e3%83%88%e3%81%99%e3%82%8b" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>ちなみに、 6. の手順で Import TSV data を使わず、手動でインポートする事も可能です。</p>
 <ol>
 <li><code>TSV</code> という名前のシートが非表示になっているので左下の <code>三</code> から選択して表示します。</li>
@@ -212,7 +343,7 @@ Reflux 単体では可視化ができないわけです。</p>
 </li>
 </ol>
 </div>
-]]></content></item><item><title>2級FP技能検定に合格しました</title><link>https://blog.kusuha.com/posts/2022/07/pass_fp2/</link><pubDate>Thu, 14 Jul 2022 22:30:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/07/pass_fp2/</guid><description>pic.twitter.com/JRHrUFfQ2q &amp;mdash; くすは㌠ (@dj_kusuha) 2022年7月4日 3月に 3級FPに合格した記事 を書きましたが、その後2級も受験し、無事に合格出来ました💪 学科は 50点/60点 (</description><content type="html"><![CDATA[<blockquote class="twitter-tweet" data-lang="ja" data-theme="light"><p lang="zxx" dir="ltr"><a href="https://t.co/JRHrUFfQ2q">pic.twitter.com/JRHrUFfQ2q</a></p>&mdash; くすは㌠ (@dj_kusuha) <a href="https://twitter.com/dj_kusuha/status/1543847857090101251?ref_src=twsrc%5Etfw">2022年7月4日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+]]></content></item><item><title>2級FP技能検定に合格しました</title><link>https://blog.kusuha.com/posts/2022/07/pass_fp2/</link><pubDate>Thu, 14 Jul 2022 22:30:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/07/pass_fp2/</guid><description>5月に受けた2級FP技能検定で無事合格しました！</description><content type="text/html" mode="escaped"><![CDATA[<blockquote class="twitter-tweet" data-lang="ja" data-theme="light"><p lang="zxx" dir="ltr"><a href="https://t.co/JRHrUFfQ2q">pic.twitter.com/JRHrUFfQ2q</a></p>&mdash; くすは㌠ (@dj_kusuha) <a href="https://twitter.com/dj_kusuha/status/1543847857090101251?ref_src=twsrc%5Etfw">2022年7月4日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>3月に <a href="https://blog.kusuha.com/posts/2022/03/pass_fp3/">3級FPに合格した記事</a> を書きましたが、その後2級も受験し、無事に合格出来ました💪</p>
 <p>学科は 50点/60点 (36点以上で合格)、実技は 95点/100点 (60点以上で合格) ということで、 <strong>完全合格</strong><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> です＼( 'ω')／</p>
 <p>これで <strong>2級ファイナンシャル・プランニング技能士</strong> を名乗ることができますｗ</p>
@@ -224,7 +355,11 @@ Reflux 単体では可視化ができないわけです。</p>
 <p>なので一旦は別の事をやろうかな～と思ってますw</p>
 <p>ちょうど10月に <a href="https://www.jitec.ipa.go.jp/1_11seido/pm.html">IPAのPM試験</a> があり、業務にも割と直結してるので、これを受ける予定。
 これも結果が出たらブログで報告します📝</p>
-<h1 id="勉強方法時間について">勉強方法・時間について</h1>
+<h1 id="勉強方法時間について">勉強方法・時間について<a href="#%e5%8b%89%e5%bc%b7%e6%96%b9%e6%b3%95%e6%99%82%e9%96%93%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
 <p>前回と全く同じ戦略をとりましたｗ</p>
 <ul>
 <li>参考書を1冊買って一通り読む
@@ -256,12 +391,20 @@ Reflux 単体では可視化ができないわけです。</p>
 </li>
 </ol>
 </div>
-]]></content></item><item><title>Google Cloud Run + Rust で Slack の bot を作ってみた</title><link>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</link><pubDate>Fri, 22 Apr 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</guid><description>最近、趣味で Rust を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。 できたもの 使った物 Rust Google Cloud Platform Cloud Run Artifact Registry Cloud Build Cloud Logging Cloud Storage 上記4つ</description><content type="html"><![CDATA[<p>最近、趣味で <a href="https://www.rust-lang.org/ja">Rust</a> を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。</p>
+]]></content></item><item><title>Google Cloud Run + Rust で Slack の bot を作ってみた</title><link>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</link><pubDate>Fri, 22 Apr 2022 23:00:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/04/create-slack-bot-with-cloud-run-and-rust/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p>最近、趣味で <a href="https://www.rust-lang.org/ja">Rust</a> を触っているんですが、その勉強の一環で Slack bot を作ってみたので、その備忘録。</p>
 <!-- more -->
-<h1 id="できたもの">できたもの</h1>
+<h1 id="できたもの">できたもの<a href="#%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%82%e3%81%ae" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
 <p><a href="https://github.com/dj-kusuha/soreike"><img src="feature.png" /></a></p>
 <p><img src="2022-04-11-00-17-09.png" alt="それいけ！アンいけ！アンアンパン"></p>
-<h2 id="使った物">使った物</h2>
+<h2 id="使った物">使った物<a href="#%e4%bd%bf%e3%81%a3%e3%81%9f%e7%89%a9" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <ul>
 <li>Rust</li>
 <li>Google Cloud Platform
@@ -279,7 +422,11 @@ Reflux 単体では可視化ができないわけです。</p>
 </ul>
 </li>
 </ul>
-<h1 id="なぜこれを作ったのか">なぜこれを作ったのか</h1>
+<h1 id="なぜこれを作ったのか">なぜこれを作ったのか<a href="#%e3%81%aa%e3%81%9c%e3%81%93%e3%82%8c%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%8b" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
 <blockquote>
 <p>Slackでアンパンマンがちょっと流行った話 / Zenn.dev
 <a href="https://zenn.dev/dividebyzero/articles/2815cef7cd446f">https://zenn.dev/dividebyzero/articles/2815cef7cd446f</a></p>
@@ -288,15 +435,35 @@ Reflux 単体では可視化ができないわけです。</p>
 <p>あとは、このツイート記事を読んだことで「オッ AWS Lambda だけで完結して作れるじゃん」と思って機運が高まったのが着手の要因に。</p>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ついに API-GW なしに Lambda だけで HTTPS なエンドポイントを生やせるように・・・！<br><br>GitHub とか Slack からの Webhook 受けとしても使いやすくなるし、良いすね🤗<br><br>/ &quot;AWS Lambda Function URLs: built-in HTTPS endpoints for your Lambda functions&quot; <a href="https://t.co/Evs4OAL2Iv">https://t.co/Evs4OAL2Iv</a> <a href="https://t.co/zaEb3Epeo2">pic.twitter.com/zaEb3Epeo2</a></p>&mdash; Tori Hara (@toricls) <a href="https://twitter.com/toricls/status/1511842011933863936?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>(何故AWSではなくGCPで実装することになったのかは後述)</p>
-<h1 id="やったこと">やったこと</h1>
-<h2 id="1-slack-で-bot-アプリケーションを新規作成">1. Slack で bot アプリケーションを新規作成</h2>
+<h1 id="やったこと">やったこと<a href="#%e3%82%84%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<h2 id="1-slack-で-bot-アプリケーションを新規作成">1. Slack で bot アプリケーションを新規作成<a href="#1-slack-%e3%81%a7-bot-%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e6%96%b0%e8%a6%8f%e4%bd%9c%e6%88%90" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p><a href="https://zenn.dev/mokomoka/articles/6d281d27aa344e">Slack Appの作り方を丁寧に残す【BotとEvent APIの設定編】 - Zenn</a></p>
 <p>上記記事がかなり詳しく書いてくれていて、ほぼこれの通りに作ったので、詳細は割愛。</p>
-<h2 id="2-rust-でコーディング">2. Rust でコーディング</h2>
-<h3 id="21-サーバー待ち受け">2.1 サーバー待ち受け</h3>
+<h2 id="2-rust-でコーディング">2. Rust でコーディング<a href="#2-rust-%e3%81%a7%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="21-サーバー待ち受け">2.1 サーバー待ち受け<a href="#21-%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e5%be%85%e3%81%a1%e5%8f%97%e3%81%91" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p><a href="https://zenn.dev/kowaremonoid/articles/7e077f9eb4439b">Cloud RunでRustのAPI Serverを動かす - Zenn</a></p>
 <p>まず、上記記事を参考に、 Rust でサーバー待ち受けのコードを用意。ここも詳細割愛。</p>
-<h3 id="22-slack-url-verification-を通す">2.2 Slack URL Verification を通す</h3>
+<h3 id="22-slack-url-verification-を通す">2.2 Slack URL Verification を通す<a href="#22-slack-url-verification-%e3%82%92%e9%80%9a%e3%81%99" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>その後、Slack App でイベントを受け取るために、 <a href="https://api.slack.com/apis/connections/events-api#the-events-api__subscribing-to-event-types__events-api-request-urls__request-url-configuration--verification0">URL Verification</a> を通す必要があるので、そのコードを用意。
 ここも、 1. で参考にした記事を参考にしています。</p>
 <p>やっていることはシンプルで、 1. で作った時に発行されている <code>Verification Token</code> を環境変数 <code>SLACK_VERIFICATION_TOKEN</code> に定義しておき、それと <code>token</code> との一致確認と、 <code>type</code> が <code>url_verification</code> であるかを確認して、問題が無ければ <code>challenge</code> の内容を JSON 形式で返しています。</p>
@@ -330,7 +497,11 @@ Reflux 単体では可視化ができないわけです。</p>
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="p">(</span><span class="n">StatusCode</span>::<span class="no">OK</span><span class="p">,</span><span class="w"> </span><span class="nb">String</span>::<span class="n">new</span><span class="p">());</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="p">}</span><span class="w">
 </span></span></span></code></pre></div><p>なお、環境変数への定義は、デプロイ時には Secret Manager を利用しつつ、開発中は <code>.env</code> ファイルを作ってそこに環境変数を定義し、 <a href="https://crates.io/crates/dotenv">rust-dotenv</a> crate を使って読み込んでいます。</p>
-<h3 id="23-メンションが飛んできたらランダム文字列を生成して-slack-に投稿">2.3 メンションが飛んできたらランダム文字列を生成して Slack に投稿</h3>
+<h3 id="23-メンションが飛んできたらランダム文字列を生成して-slack-に投稿">2.3 メンションが飛んできたらランダム文字列を生成して Slack に投稿<a href="#23-%e3%83%a1%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%8c%e9%a3%9b%e3%82%93%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%89%e3%83%a9%e3%83%b3%e3%83%80%e3%83%a0%e6%96%87%e5%ad%97%e5%88%97%e3%82%92%e7%94%9f%e6%88%90%e3%81%97%e3%81%a6-slack-%e3%81%ab%e6%8a%95%e7%a8%bf" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>Slack Event API の <a href="https://api.slack.com/events/app_mention">app_mention</a> を利用し、メンションを受けたらそのチャンネルにランダム生成された文字列を投稿します。</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Rust" data-lang="Rust"><span class="line"><span class="cl"><span class="k">fn</span> <span class="nf">post_anpanman</span><span class="p">(</span><span class="n">channel</span>: <span class="nb">String</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="c1">// 投稿文字列を決定する
@@ -395,7 +566,11 @@ Reflux 単体では可視化ができないわけです。</p>
 </span></span></span><span class="line"><span class="cl"><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">body</span><span class="p">;</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="p">}</span><span class="w">
-</span></span></span></code></pre></div><h2 id="3-dockerfile-を用意">3. Dockerfile を用意</h2>
+</span></span></span></code></pre></div><h2 id="3-dockerfile-を用意">3. Dockerfile を用意<a href="#3-dockerfile-%e3%82%92%e7%94%a8%e6%84%8f" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>Cloud Run にデプロイするために、 docker image を作る必要があるため、 Dockerfile を用意。
 最初は <a href="https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-service-other-languages">公式のドキュメント</a> を見ながら作ったんですが、</p>
 <ul>
@@ -407,7 +582,11 @@ Reflux 単体では可視化ができないわけです。</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">error trying to connect: error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed
 </span></span></code></pre></div><p>と SSL 証明書周りでエラーが出てしまい、このあたり調べるのも大変そうだったので、 <code>rust:slim</code> で妥協。
 誰か解決策教えてください（？）</p>
-<h2 id="4-cloud-run-にデプロイ">4. Cloud Run にデプロイ</h2>
+<h2 id="4-cloud-run-にデプロイ">4. Cloud Run にデプロイ<a href="#4-cloud-run-%e3%81%ab%e3%83%87%e3%83%97%e3%83%ad%e3%82%a4" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p><code>gcloud run deploy</code> でデプロイをします。最初は何をやってるのか良くわかってなかったんですが、これを行うと</p>
 <ol>
 <li>Cloud Storage にソースをアップロード</li>
@@ -417,29 +596,57 @@ Reflux 単体では可視化ができないわけです。</p>
 </ol>
 <p>まで行われる模様。</p>
 <p>コマンド一つでいろいろやってくれるのは楽ちんだけど、中身を知るのは大変😅</p>
-<h2 id="5-github-actions-でリポジトリに-push-されたら自動でデプロイされるように">5. GitHub Actions で、リポジトリに push されたら自動でデプロイされるように</h2>
+<h2 id="5-github-actions-でリポジトリに-push-されたら自動でデプロイされるように">5. GitHub Actions で、リポジトリに push されたら自動でデプロイされるように<a href="#5-github-actions-%e3%81%a7%e3%83%aa%e3%83%9d%e3%82%b8%e3%83%88%e3%83%aa%e3%81%ab-push-%e3%81%95%e3%82%8c%e3%81%9f%e3%82%89%e8%87%aa%e5%8b%95%e3%81%a7%e3%83%87%e3%83%97%e3%83%ad%e3%82%a4%e3%81%95%e3%82%8c%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>4.までで機能リリースとしては完了なんですが、折角なのでもうちょっと自動化を頑張ることに。
 しかしここは GCP のサービスアカウントについてしっかり理解しないといけなかったため、めちゃくちゃ時間かかりました😩</p>
 <p>幸い、 GitHub Actions 側には Google 謹製の <a href="https://github.com/google-github-actions/auth">auth</a> と <a href="https://github.com/google-github-actions/deploy-cloudrun">deploy-cloudrun</a> があり、ドキュメントに従えば概ねちゃんと動いてくれました。
 ドキュメントをしっかり読まずにところどころ飛ばして読んだ所為でいろんなところで躓いてしまった…。</p>
-<h1 id="以下つまづいたことなど">以下、つまづいたことなど</h1>
-<h2 id="aws-の-2fa-が通せなくなってた">AWS の 2FA が通せなくなってた😇</h2>
+<h1 id="以下つまづいたことなど">以下、つまづいたことなど<a href="#%e4%bb%a5%e4%b8%8b%e3%81%a4%e3%81%be%e3%81%a5%e3%81%84%e3%81%9f%e3%81%93%e3%81%a8%e3%81%aa%e3%81%a9" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<h2 id="aws-の-2fa-が通せなくなってた">AWS の 2FA が通せなくなってた😇<a href="#aws-%e3%81%ae-2fa-%e3%81%8c%e9%80%9a%e3%81%9b%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%9f" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>半年程前にスマホを機種変更してたんですが、その時に Authenticator の切り替えに失敗し、 2FA ログインが出来なくなってましたｗ</p>
 <p>しかも、その場合用に SMS が飛んでくる仕組みだったぽいんですが、 AWS の電話番号入力は国際番号(+81)から入力すべきだったらしく、その入力も間違えていてお問い合わせベースでの対応に…。</p>
 <p>とりあえず動かしてみたいし、そもそも AWS も GCP もあんまり使った事が無かったので、 GCP でやってみるか、ということで GCP で作りました。</p>
-<h2 id="cloud-run-の使い方が不明">Cloud Run の使い方が不明</h2>
+<h2 id="cloud-run-の使い方が不明">Cloud Run の使い方が不明<a href="#cloud-run-%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9%e3%81%8c%e4%b8%8d%e6%98%8e" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>本当は Cloud Functions でサクッと作りたいな～とか思ってたんですが、 Rust は対象外であった… ということで、そもそも Rust の勉強がてら、というのがあったので、 Cloud Run を使って Rust で動かす、という方針に。</p>
 <p>しかし、 Cloud Run は使ったことが無かったので、「サーバー待ち受けのコードを書く必要がある」というところの理解までにしばらくかかりましたｗ</p>
 <p><a href="https://zenn.dev/kowaremonoid/articles/7e077f9eb4439b">Cloud RunでRustのAPI Serverを動かす - Zenn</a> の記事を参考にして、無事に動かすことが出来ました 🎉</p>
-<h2 id="cloud-build-でタイムアウトしてしまう">Cloud Build でタイムアウトしてしまう</h2>
+<h2 id="cloud-build-でタイムアウトしてしまう">Cloud Build でタイムアウトしてしまう<a href="#cloud-build-%e3%81%a7%e3%82%bf%e3%82%a4%e3%83%a0%e3%82%a2%e3%82%a6%e3%83%88%e3%81%97%e3%81%a6%e3%81%97%e3%81%be%e3%81%86" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>Rust のコンパイルがそこそこ重い処理だったので、デフォルトの Cloud Build のスペック及びタイムアウト時間(10分)だとタイムアウトしていまうようでした。
 これは、 <code>gcloud config set builds/timeout &lt;指定秒数&gt;</code> と設定しておくか、 <code>CLOUDSDK_BUILDS_TIMEOUT</code> 環境変数を定義しておくと変更出来るので、それで対処。</p>
 <p>なお、似たような設定値として <code>app/cloud_build_timeout</code> があるんですが、これは Google App Engine をデプロイするときのタイムアウト設定っぽい。紛らわしすぎる…これで1時間ほどハマってしまいました😩</p>
-<h1 id="おわりに">おわりに</h1>
+<h1 id="おわりに">おわりに<a href="#%e3%81%8a%e3%82%8f%e3%82%8a%e3%81%ab" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
 <p>Rust の勉強がてら、ということでやってみたんですが、どちらかというと GCP のお勉強になりました😅
 サーバー周り、結構興味はあったんですが今まで真面目に触った事が無かったので、良いきっかけになったなーと思います。</p>
 <p>またそのうちサーバー周りをいじる何かを作ろうと思います💪</p>
-<h1 id="参考">参考</h1>
+<h1 id="参考">参考<a href="#%e5%8f%82%e8%80%83" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
 <ul>
 <li><a href="https://zenn.dev/kowaremonoid/articles/7e077f9eb4439b">Cloud RunでRustのAPI Serverを動かす - Zenn</a></li>
 <li><a href="https://zenn.dev/ucwork/articles/acec204571362b">RustのDocker Build時間短縮したい - Zenn</a></li>
@@ -448,37 +655,62 @@ Reflux 単体では可視化ができないわけです。</p>
 <li><a href="https://github.com/slack-rs/slack-rs-api/pull/105">Move token to authorization header by silverjam · Pull Request #105 · slack-rs/slack-rs-api · GitHub</a></li>
 <li><a href="https://zenn.dev/mokomoka/articles/6d281d27aa344e">Slack Appの作り方を丁寧に残す【BotとEvent APIの設定編】 - Zenn</a></li>
 </ul>
-]]></content></item><item><title>豊富温泉に湯治で行ってきました</title><link>https://blog.kusuha.com/posts/2022/04/hotspring_cure/</link><pubDate>Mon, 18 Apr 2022 23:05:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/04/hotspring_cure/</guid><description>&lt;p>くすはさんは12歳くらいから全身アトピー性皮膚炎で、今なお皮膚科に通ってお薬をもらっています。&lt;/p>
-&lt;p>そんな中、数年前に「豊富温泉がアトピーに良いらしい」と知り、いつか行きたいなぁと思ってたんですが、今回思い切って3泊4日で行ってきました！&lt;/p>
-&lt;p>せっかくなのでブログに記録を残しておきます。&lt;/p>
-&lt;p>豊富温泉の湯治については、 &lt;a href="https://toyotomi-onsen.com/">公式サイト&lt;/a> があるのでこちらを見てみてください。&lt;/p></description><content type="html"><![CDATA[<p>くすはさんは12歳くらいから全身アトピー性皮膚炎で、今なお皮膚科に通ってお薬をもらっています。</p>
+]]></content></item><item><title>豊富温泉に湯治で行ってきました</title><link>https://blog.kusuha.com/posts/2022/04/hotspring_cure/</link><pubDate>Mon, 18 Apr 2022 23:05:00 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/04/hotspring_cure/</guid><description>数年前に「豊富温泉がアトピーに良いらしい」と知り、いつか行きたいなぁと思ってたんですが、今回思い切って3泊4日で行ってきました！</description><content type="text/html" mode="escaped"><![CDATA[<p>くすはさんは12歳くらいから全身アトピー性皮膚炎で、今なお皮膚科に通ってお薬をもらっています。</p>
 <p>そんな中、数年前に「豊富温泉がアトピーに良いらしい」と知り、いつか行きたいなぁと思ってたんですが、今回思い切って3泊4日で行ってきました！</p>
 <p>せっかくなのでブログに記録を残しておきます。</p>
 <p>豊富温泉の湯治については、 <a href="https://toyotomi-onsen.com/">公式サイト</a> があるのでこちらを見てみてください。</p>
-<h2 id="交通手段">交通手段</h2>
+<h2 id="交通手段">交通手段<a href="#%e4%ba%a4%e9%80%9a%e6%89%8b%e6%ae%b5" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>札幌から公共交通機関で行く場合はバスかJRになるかなと思うんですが、今回はJR北海道で <a href="https://www.jrhokkaido.co.jp/hokkaidolove/index.html">HOKKAIDO LOVE！６日間周遊パス</a> なるものが販売されていたので、今回はJRで行く事にしました。通常はJRで往復すると自由席でも片道1万円近くするんですが、このパスだと往復指定席でも1.2万円だったので、ずいぶんお得！</p>
 <p>ちなみにバスだと札幌から乗り換えなく行けるので、移動中ずっと動かずに寝てたい人とかは良いかも。自分はちょっと動いたりしたい（</p>
-<h2 id="宿泊先">宿泊先</h2>
+<h2 id="宿泊先">宿泊先<a href="#%e5%ae%bf%e6%b3%8a%e5%85%88" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p><img src="1.jpg" alt="ニュー温泉閣ホテル"></p>
 <p>こちらも <a href="https://douminwari.jp/">どうみん割</a> が使える時期だったので、1万円以下なら良いかな〜と思って探していたところ、 <a href="https://new-onsenkaku.com/">ニュー温泉閣ホテル</a> さんの湯治プランが1泊2食付き7,300円<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>とリーズナブルで良さげだったのでこちらをチョイス。どうみん割のおかげで1泊あたり「3,000円引き + 2,000円クーポン付き」ということで実質1泊2,300円に…安すぎる。</p>
 <p>他にもいくつか宿泊先があったので、機会があれば他も泊まってみたいところ。 <a href="https://ukasuymosir.com/floor-map/">何やらダーツライブ2が置いてあるところ</a> もあるらしい…ここは気になってたけど、せっかくどうみん割使えるので2食付きのところを選んでしまった &#x1f607;</p>
-<h2 id="温泉">温泉</h2>
+<h2 id="温泉">温泉<a href="#%e6%b8%a9%e6%b3%89" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p><img src="2.jpg" alt="ふれあいセンター"></p>
 <p>温泉は宿泊先にあったところと、<a href="http://www.town.toyotomi.hokkaido.jp/section/syoukoukankouka/a7cug60000001fqi.html">ふれあいセンター</a> の2カ所に入りました。どちらも同じ泉質で、前評判通り石油臭があり、浴槽の表面にうっすら油分がキラキラしてました。ふれあいセンターの方は湯治専用のぬるめの浴槽があったので(38-39℃くらい)、30分くらい入っていてものぼせずにのんびり湯治できました。</p>
 <p>ちなみにふれあいセンターの開店後1時間は濃い、というお話だったので、最終日に行ってみたんですが…本当に濃くてびっくり！原油がぷかぷか浮いてるのが見えましたｗ
 浴槽から出て手拭いで身体を拭くと、手拭いにしっかり色がついてしまうくらい。保湿効果もしっかりありました。ただ、濃すぎて刺激が強めなので、慣れないうちはこの時間帯は控えた方が良いとのこと。</p>
 <p>そういえば、毎日、朝晩と保湿剤を塗っているんですが、 <strong>この湯治期間は1回も保湿剤を使いませんでした。</strong> それでも、お肌が保湿されてる感があって、温泉効果だな〜と実感。 <del>プラシーボかもしれないけど</del></p>
-<h2 id="湯治コンシェルジュデスク">湯治コンシェルジュデスク</h2>
+<h2 id="湯治コンシェルジュデスク">湯治コンシェルジュデスク<a href="#%e6%b9%af%e6%b2%bb%e3%82%b3%e3%83%b3%e3%82%b7%e3%82%a7%e3%83%ab%e3%82%b8%e3%83%a5%e3%83%87%e3%82%b9%e3%82%af" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>ふれあいセンターに <a href="https://toyotomi-onsen.com/consult">コンシェルジュデスク</a> があり、湯治に来たらまずここ！とWebサイトにも書いてあったので、お邪魔してきました。</p>
 <p>担当の方が凄く親切に対応してくださり、入浴方法や注意事項などを説明していただきました。健康相談員の方など3名ほどいらしたんですが、とても話しやすい雰囲気で迎えてくださり、この湯治期間で一番感動したかもしれません。対応してくださった担当の方、ありがとうございました &#x1f64f;</p>
-<h2 id="観光">観光</h2>
+<h2 id="観光">観光<a href="#%e8%a6%b3%e5%85%89" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>豊富温泉周辺にはいろいろと観光スポットがあるらしいんですが、目的が湯治だったのであまり観光はせず…</p>
 <p>そもそも車がないとなかなかしんどく、バスは1日4〜5本だったり、たとえば <a href="http://sarobetsu.or.jp/swc/">サロベツ湿原センター</a> まではバス自体が無い(予約制のタクシーで代替されているらしい)など、観光するなら車で来ないとダメそう。</p>
 <p>というわけで次行くときは車で乗り込もうと思いますｗ</p>
-<h2 id="総評">総評</h2>
+<h2 id="総評">総評<a href="#%e7%b7%8f%e8%a9%95" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>湯治期間中、保湿剤もステロイド剤も使わなかったですが、ちょっと良くなった状態で帰ることになりました。アトピーの方の3〜4割くらいは、最初の数日間は悪化するパターンがあるらしいので、幸運だったかも。</p>
 <p>今回は3泊4日だったので、湯治期間としてはかなり短く、効果がちゃんと出る前に帰ることになるんですが、今回なかなか状態が良かったので、またいつか、今度は2週間くらい滞在出来るように時間を作って、再訪したいなぁと思います &#x1f604;</p>
-<h2 id="フォトギャラリー">フォトギャラリー</h2>
+<h2 id="フォトギャラリー">フォトギャラリー<a href="#%e3%83%95%e3%82%a9%e3%83%88%e3%82%ae%e3%83%a3%e3%83%a9%e3%83%aa%e3%83%bc" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>主に食べたもの（</p>
 <p><img src="p1.jpg" alt="フォトギャラリー(1)"></p>
 <p><img src="p2.jpg" alt="フォトギャラリー(2)"></p>
@@ -494,11 +726,14 @@ Reflux 単体では可視化ができないわけです。</p>
 <p>Webサイトだと税別表記になっている&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></content></item><item><title>3級FP技能検定に合格しました</title><link>https://blog.kusuha.com/posts/2022/03/pass_fp3/</link><pubDate>Mon, 07 Mar 2022 14:25:23 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/03/pass_fp3/</guid><description>&lt;p>&lt;img src="feature.png" alt="いえーい">&lt;/p>
-&lt;p>1月に受けていた3級FP技能検定、先日合格発表があって無事に合格してました！いえーい＼( 'ω')／&lt;/p></description><content type="html"><![CDATA[<p><img src="feature.png" alt="いえーい"></p>
+</div>]]></content></item><item><title>3級FP技能検定に合格しました</title><link>https://blog.kusuha.com/posts/2022/03/pass_fp3/</link><pubDate>Mon, 07 Mar 2022 14:25:23 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/03/pass_fp3/</guid><description>1月に受けた3級FP技能検定で無事合格しました！</description><content type="text/html" mode="escaped"><![CDATA[<p><img src="feature.png" alt="いえーい"></p>
 <p>1月に受けていた3級FP技能検定、先日合格発表があって無事に合格してました！いえーい＼( 'ω')／</p>
 <p>なんでいきなりFP？って感じなんですが、ここ最近は将来のマネープランを考えたりみたいなことが多かったので、身につけた知識で受験出来る資格とかないかな？と思って調べたらFPを見つけて、オッこれだなと思って受けてみた、という流れでした。</p>
-<h1 id="勉強方法時間について">勉強方法・時間について</h1>
+<h1 id="勉強方法時間について">勉強方法・時間について<a href="#%e5%8b%89%e5%bc%b7%e6%96%b9%e6%b3%95%e6%99%82%e9%96%93%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
 <p>参考書となる本を1冊買いました。自分が買ったのはこちら↓</p>
 <p><strong>イメージで攻略 わかる！受かる！！ FP3級 テキスト＆問題集 2021-2022年版（マイナビ出版）</strong>
 <a href="https://www.yodobashi.com/product/100000086601415225/">https://www.yodobashi.com/product/100000086601415225/</a> <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
@@ -525,7 +760,7 @@ Reflux 単体では可視化ができないわけです。</p>
 まぁヨドバシはポイントいつ使う？という問題が常にあるんですが😇&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></content></item><item><title>Factorioを買いました</title><link>https://blog.kusuha.com/posts/2022/02/buy_factorio/</link><pubDate>Thu, 24 Feb 2022 01:00:05 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/02/buy_factorio/</guid><description>&lt;p>&lt;img src="feature.png" alt="既に100時間以上遊んでしまった図">&lt;/p></description><content type="html"><![CDATA[<p><img src="feature.png" alt="既に100時間以上遊んでしまった図"></p>
+</div>]]></content></item><item><title>Factorioを買いました</title><link>https://blog.kusuha.com/posts/2022/02/buy_factorio/</link><pubDate>Thu, 24 Feb 2022 01:00:05 +0900</pubDate><guid>https://blog.kusuha.com/posts/2022/02/buy_factorio/</guid><description>買いました、というかもう3ヶ月くらい経ったのでここまでにやったことなど。</description><content type="text/html" mode="escaped"><![CDATA[<p><img src="feature.png" alt="既に100時間以上遊んでしまった図"></p>
 <p>買いました、と書いてますが買ったのは12月上旬なのでもう3ヶ月くらい前ｗ<br>
 既に買ってから100時間以上遊んでしまっている😇</p>
 <p>ここまでの経緯↓</p>
@@ -534,30 +769,40 @@ Reflux 単体では可視化ができないわけです。</p>
 <li>speed run の記事・動画を参考にしてなるはやでロケット打ち上げてみる (8時間くらい)</li>
 <li>バニラのまま、シナリオ <code>鉄道の世界</code> を遊んでみる ←ｲﾏｺｺ</li>
 </ul>
-<h2 id="初回プレー">初回プレー</h2>
+<h2 id="初回プレー">初回プレー<a href="#%e5%88%9d%e5%9b%9e%e3%83%97%e3%83%ac%e3%83%bc" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>初プレーなのでまぁ普通にやるか、ということで特に何も考えずにフリープレイで遊んでみました。 ウーン、この手のゲームはだいぶツボっぽくて、普通に睡眠時間を削って遊んでしまった…</p>
 <p>死なないように頑張ってたんですが、機関車に轢かれて初死亡しました😇</p>
-<h2 id="speed-run">speed run</h2>
+<h2 id="speed-run">speed run<a href="#speed-run" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p><a href="https://zenn.dev/thr/articles/674cfb8f4b9370">Factorioの歩き方</a> という記事を見かけて、面白そうだなと思い、この記事で紹介されている <a href="https://docs.google.com/presentation/d/1XgyTdHzQM1cQrv1YpZJuRGtMv6AE9j4h6Phdn4Fe8-c/edit?usp=sharing">ドキュメント</a> と <a href="https://www.youtube.com/watch?list=TLGGaL4rr9mEPOYyMzAyMjAyMg&amp;v=ExLrmK1c7tA">YouTubeの動画</a> を見ながらやってみました。  初回プレーは特に何も下調べせずに行き当たりばったりで作っていたので、効率的な作り方を知って「なるほどな～」と思いながら動画を見てました。 このおかげで、だいぶFactorioうまくなった気がする(？)</p>
 <p>ところで、このドキュメントはいつ見ても数人は開いてるぽいので、この界隈ではメジャーなんだろか？</p>
-<h2 id="鉄道の世界">鉄道の世界</h2>
+<h2 id="鉄道の世界">鉄道の世界<a href="#%e9%89%84%e9%81%93%e3%81%ae%e4%b8%96%e7%95%8c" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>speed run も一通りやったので、知見を得た上で改めてやってみることに。 普通にやってもな、と思ったので、鉄道の世界でやってみました。この設定だとバイターが勝手に移動して巣を作ったりしないので、わりと気楽にできたかなｗ</p>
 <p>ロケット打ち上げまでも初回プレーよりはかからず。35間くらいだったかな。ロケット打ち上げが目標じゃなかったので、衛星作ったりとかなんだりとかしてたので、やろうと思えばもう5時間くらいは短縮出来てた気がする。</p>
 <p>で、ロケット打ち上げ終わったので、今は初回プレーではスキップしてた原子力に手を出したりし始めてます。そこまで電力逼迫はしてないけど、原発つくりたい(？)</p>
-<p>とはいえもうそろそろ無限研究くらいしかやれることなくなってきたので、次はMOD入れてやってみてもいいかな～、しかし時間が無限に溶ける溶ける…</p>]]></content></item><item><title>スタディサプリで英語学習を始めて5ヶ月ほど経った</title><link>https://blog.kusuha.com/posts/2021/06/learning_english/</link><pubDate>Fri, 25 Jun 2021 20:03:23 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/06/learning_english/</guid><description>&lt;p>気づいたら前回の記事から半年ほど経っててワロタ&lt;br>
-1月は気分が落ち込んでいたり、&lt;br>
-2月はノロウィルスにかかったり、&lt;br>
-3月以降は...特に何もしてないんですが、とりあえず元気です。&lt;/p>
-&lt;p>さてそんな中で1月から&lt;a href="https://eigosapuri.jp/">スタディサプリ&lt;/a>というアプリに課金して英語学習を始めてます。&lt;br>
-モチベの上下はありつつも、なんと未だに学習が続いているので、これまで何をやってきたかを備忘録的にまとめてみます。&lt;br>
-※アフィリエイトの記事ではありませんｗ&lt;/p></description><content type="html"><![CDATA[<p>気づいたら前回の記事から半年ほど経っててワロタ<br>
+<p>とはいえもうそろそろ無限研究くらいしかやれることなくなってきたので、次はMOD入れてやってみてもいいかな～、しかし時間が無限に溶ける溶ける…</p>]]></content></item><item><title>スタディサプリで英語学習を始めて5ヶ月ほど経った</title><link>https://blog.kusuha.com/posts/2021/06/learning_english/</link><pubDate>Fri, 25 Jun 2021 20:03:23 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/06/learning_english/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p>気づいたら前回の記事から半年ほど経っててワロタ<br>
 1月は気分が落ち込んでいたり、<br>
 2月はノロウィルスにかかったり、<br>
 3月以降は...特に何もしてないんですが、とりあえず元気です。</p>
 <p>さてそんな中で1月から<a href="https://eigosapuri.jp/">スタディサプリ</a>というアプリに課金して英語学習を始めてます。<br>
 モチベの上下はありつつも、なんと未だに学習が続いているので、これまで何をやってきたかを備忘録的にまとめてみます。<br>
 ※アフィリエイトの記事ではありませんｗ</p>
-<h2 id="どんなコンテンツがあるか">どんなコンテンツがあるか</h2>
+<h2 id="どんなコンテンツがあるか">どんなコンテンツがあるか<a href="#%e3%81%a9%e3%82%93%e3%81%aa%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%8c%e3%81%82%e3%82%8b%e3%81%8b" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <ul>
 <li>パーフェクト講義
 <ul>
@@ -590,19 +835,35 @@ Reflux 単体では可視化ができないわけです。</p>
 </ul>
 </li>
 </ul>
-<h2 id="何をやってきたか">何をやってきたか</h2>
-<h3 id="1月">1月</h3>
+<h2 id="何をやってきたか">何をやってきたか<a href="#%e4%bd%95%e3%82%92%e3%82%84%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%81%8b" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<h3 id="1月">1月<a href="#1%e6%9c%88" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>そもそも英語力に全然自信がなかったので、まず「パーフェクト講義・英文法」「TEPPAN英単語」を進めました。<br>
 英文法は「なるほど知らんかった」みたいな項目が多かったので勉強になった気がします。<br>
 英単語は、よくある「英単語が表示されて日本語訳を答える」タイプなんですが、選択肢の有無を設定出来るので、無しにしてちゃんと覚えていないと答えられないようにして繰り返し学習していました。<br>
 動画で学習方法についても解説があったので、それに従って進める事にしました。</p>
 <p>また、3月のTOEIC L&amp;R TEST(以下TOEIC)に申し込みをして、自分に発破をかけることにしましたｗ</p>
-<h3 id="2月">2月</h3>
+<h3 id="2月">2月<a href="#2%e6%9c%88" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>英単語の学習は継続しつつ、英文法のコンテンツがようやく1周したので、「パーフェクト講義」も着手開始しました。<br>
 この時点で、実際のTOEIC形式問題を解いて解説を見るんですが、リスニングが絶望的に出来ないのがわかり辛い気持ちに…<br>
 いつかは出来るようになると信じて続けていきますｗ
 ここまで、1日平均90分ほど勉強しています。</p>
-<h3 id="3月">3月</h3>
+<h3 id="3月">3月<a href="#3%e6%9c%88" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>引き続き英単語とパーフェクト講義。<br>
 また、別途購入していた模試タイプのテキストで1回分の模試をやりました。</p>
 <p>結局TOEIC当日までにパーフェクト講義が終わらずｗ<br>
@@ -610,14 +871,26 @@ Reflux 単体では可視化ができないわけです。</p>
 <p>受験当日まででおよそ80時間程度の学習だったんですが、+110点はなかなか頑張ったのではないでしょうか。<br>
 その内訳は <strong>Listening -10点 / Reading +120点</strong> ...アレ？<br>
 リスニング頑張るともっと延びることがわかりました😇</p>
-<h3 id="4月">4月</h3>
+<h3 id="4月">4月<a href="#4%e6%9c%88" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>引き続き英単語とパーフェクト講義。ここは特に特筆することはなく淡々と進めてました。</p>
-<h3 id="5月">5月</h3>
+<h3 id="5月">5月<a href="#5%e6%9c%88" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>引き続き英単語とパーフェクト講義…なんですが、だんだんとモチベが下がってきはじめました。<br>
 まぁ学習を継続するのはなかなか大変…<br>
 スタサプ、半年契約をしたので契約が切れる直前の7月頃にTOEIC再受験しようと申し込み。</p>
 <p>また、下旬にはパーフェクト講義がようやく1周したので、「実践問題集」に着手開始</p>
-<h3 id="6月-イマココ">6月 ←イマココ</h3>
+<h3 id="6月-イマココ">6月 ←イマココ<a href="#6%e6%9c%88-%e3%82%a4%e3%83%9e%e3%82%b3%e3%82%b3" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
 <p>英単語は730点までのものは一通り消化したので、「実践問題集」1本に集中しています。<br>
 また7月のTOEICも無事に受けれる事になったので<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>、モチベが復活しつつあるので頑張っていきます💪
 ここまでの学習時間は170時間ほど…試験までに200時間いくといいな～</p>
@@ -629,8 +902,7 @@ Reflux 単体では可視化ができないわけです。</p>
 <p>今はコロナウィルスの関係で受験が抽選になっています&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></content></item><item><title>全自動エスプレッソマシンを買って1ヶ月経った</title><link>https://blog.kusuha.com/posts/2021/01/espresso_machine/</link><pubDate>Wed, 06 Jan 2021 09:21:29 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/01/espresso_machine/</guid><description>&lt;p>お仕事が基本的にリモートワークになったので、自宅でのコーヒー消費量が増えていました。&lt;br>
-で、そのうち豆から挽いて淹れれるコーヒーメーカーが欲しいな〜と思ってたんですが、 去年のAmazonのサイバーマンデーセールの時にセールをしていたので、 デロンギの全自動コーヒーメーカー「マグニフィカS」を奮発して買ってみました！&lt;/p></description><content type="html"><![CDATA[<p>お仕事が基本的にリモートワークになったので、自宅でのコーヒー消費量が増えていました。<br>
+</div>]]></content></item><item><title>全自動エスプレッソマシンを買って1ヶ月経った</title><link>https://blog.kusuha.com/posts/2021/01/espresso_machine/</link><pubDate>Wed, 06 Jan 2021 09:21:29 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/01/espresso_machine/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p>お仕事が基本的にリモートワークになったので、自宅でのコーヒー消費量が増えていました。<br>
 で、そのうち豆から挽いて淹れれるコーヒーメーカーが欲しいな〜と思ってたんですが、 去年のAmazonのサイバーマンデーセールの時にセールをしていたので、 デロンギの全自動コーヒーメーカー「マグニフィカS」を奮発して買ってみました！</p>
 <p>Amazonリンク: <a href="https://www.amazon.co.jp/dp/B088HJCVDX">【エントリーモデル】デロンギ(DeLonghi) 全自動コーヒーメーカー マグニフィカS ミルク泡立て:手動 ブラック ECAM22112B</a></p>
 <p><img src="espresso_machine.jpg" alt="自宅に設置したエスプレッソマシン"></p>
@@ -642,7 +914,7 @@ Reflux 単体では可視化ができないわけです。</p>
 ミルクでカフェラテも作れるそうなんですがめんどくさそうなのでまだ試していません😇</p>
 <p>あと分かってたんですが淹れる時にそれなりに音が鳴ります、まぁこれはネスカフェのバリスタとかも同じかな。
 豆の消費量は凄いことになってるので、定期的に買う豆を探していますｗ
-自宅近くに珈琲屋さんがあって豆も売ってるので、そこのをしばらく買って飲んでみようかな〜</p>]]></content></item><item><title>2021年の抱負</title><link>https://blog.kusuha.com/posts/2021/01/aspiration-2021/</link><pubDate>Sun, 03 Jan 2021 23:29:44 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/01/aspiration-2021/</guid><description>&lt;p>今年の抱負です！&lt;/p></description><content type="html"><![CDATA[<p>今年の抱負です！</p>
+自宅近くに珈琲屋さんがあって豆も売ってるので、そこのをしばらく買って飲んでみようかな〜</p>]]></content></item><item><title>2021年の抱負</title><link>https://blog.kusuha.com/posts/2021/01/aspiration-2021/</link><pubDate>Sun, 03 Jan 2021 23:29:44 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/01/aspiration-2021/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p>今年の抱負です！</p>
 <ul>
 <li>マラソンする！</li>
 <li>キャンプする！</li>
@@ -658,7 +930,7 @@ Reflux 単体では可視化ができないわけです。</p>
 <p>バックギャモンは、ちょくちょくはやってたんですが人とは全然遊べていなかったので、今年は<a href="https://inbcgammon.wiki.fc2.com/">インターネットバックギャモンクラブ(INBC)</a>のイベントにちょくちょく参加させてもらいつつ、オンラインでの対戦を増やしていければなぁと。<br>
 余力があれば配信も…？</p>
 <p>本当は音ゲーとかダーツとかポーカーとかも出来たらとは思うんですが多分そんなに時間はなさそう…モチベーションが上がったらやっていきたい！</p>
-<p>というわけで今年は頑張って時間を作って遊べたらと思います！</p>]]></content></item><item><title>Hello World!</title><link>https://blog.kusuha.com/posts/2021/01/hello-world/</link><pubDate>Fri, 01 Jan 2021 21:41:55 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/01/hello-world/</guid><description>ブログを作りました。 主に趣味の話をつらつらと書いていければと思います。 2021年はいろいろアウトプット出来るように頑張ってみます💪 今年もよろ</description><content type="html"><![CDATA[<p>ブログを作りました。<br>
+<p>というわけで今年は頑張って時間を作って遊べたらと思います！</p>]]></content></item><item><title>Hello World!</title><link>https://blog.kusuha.com/posts/2021/01/hello-world/</link><pubDate>Fri, 01 Jan 2021 21:41:55 +0900</pubDate><guid>https://blog.kusuha.com/posts/2021/01/hello-world/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<p>ブログを作りました。<br>
 主に趣味の話をつらつらと書いていければと思います。</p>
 <p>2021年はいろいろアウトプット出来るように頑張ってみます💪<br>
 今年もよろしくお願いします🙌</p>
